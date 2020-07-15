@@ -1,0 +1,5 @@
+startshape gsq
+
+shape gsq {
+  SQUARE [b 0.85 hue 120 sat 1]
+}
