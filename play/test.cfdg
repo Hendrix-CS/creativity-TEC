@@ -1,0 +1,8 @@
+startshape line
+
+shape line
+rule 1 { }
+rule 1000 {
+  SQUARE []
+  line [x 0.99 s 0.98]
+}

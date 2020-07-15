@@ -1,0 +1,26 @@
+startshape flowerflower
+
+shape squares {
+  loop 5 [x 1.5] SQUARE []
+}
+
+shape flowerflower {
+  flower []
+  flower [s 1.7]
+  loop 16 [r (360/16)] flower [x 25]
+}
+
+shape flower {
+  loop 12 [r (360/12)] petal [x 7]
+}
+
+shape petal
+rule {
+  loop 5 [r (360/5)] TRIANGLE [y -1]
+}
+rule {
+  loop 6 [r 60] TRIANGLE [y -1]
+}
+rule {
+  loop 7 [r (360/7)] TRIANGLE [y -1]
+}

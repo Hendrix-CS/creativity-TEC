@@ -1,0 +1,8 @@
+startshape shapes
+
+shape shapes {
+  FILL [b 0.8]
+  SQUARE [x -1]
+  CIRCLE [x 1]
+  TRIANGLE [y 1]
+}

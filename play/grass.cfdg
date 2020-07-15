@@ -1,0 +1,16 @@
+startshape grass
+
+shape foo {
+  CURVE(0.95,0)[]
+}
+
+shape grass {
+  loop 300 [x 1]
+    CURVE(0.975, 0±1) [ hue 1 120 ]
+}
+
+shape CURVE(number shrink, number turn)
+{
+  SQUARE []
+  CURVE(=) [[y 0.5 r turn s shrink y 0.5]]
+}
