@@ -16,7 +16,9 @@ layout: course
         <p><a href="{{ inst.web}}">{{ inst.name}}</a><br>
         {{ inst.email }}<br>
         {{ inst.phone }}<br>
-        <a href="{{ inst.officehours }}">Office Hours</a>
+        {% if inst.officehours %}
+          <a href="{{ inst.officehours }}">Office Hours</a>
+        {% endif %}
         </p>
         {% endif %}
         {% endfor %}

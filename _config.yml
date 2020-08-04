@@ -58,11 +58,10 @@ instructors:
     phone: (501) 450-1377
     officehours: https://byorgey.youcanbook.me
   - id: gill
-    name: Melissa Gill
+    name: Melissa Gill, M.A., M.F.A.
     email: gill@hendrix.edu
     web: http://www.melissagillart.com/
     phone: (501) 505-1562
-    officehours: TBD
 
 offerings:
   - name: Section 1
@@ -84,6 +83,21 @@ resources:
   - name: Context Free Art
     image: assets/images/fern.jpg
     url: https://www.contextfreeart.org/
+  - name: William Kentridge
+    image: assets/images/William_Kentridge_DSC_2685.jpg
+    url: https://www.youtube.com/watch?v=SmaXqktW3A8&t=18s
+  - name: James Taylor
+    image: assets/images/taylor.png
+    url: https://www.youtube.com/watch?v=14SOoTXqRys
+  - name: Sol LeWitt
+    image: assets/images/sol_lewitt.jpg
+    url: https://massmoca.org/sol-lewitt/
+  - name: Swoon
+    image: assets/images/swoon.jpg
+    url: https://www.youtube.com/watch?v=5298KZuW_JE
+  - name: Ai Weiwei
+    image: assets/images/surveillance.jpeg
+    url: https://art21.org/watch/art-in-the-twenty-first-century/s6/ai-weiwei-in-change-segment/
 
 extra-resources:
 

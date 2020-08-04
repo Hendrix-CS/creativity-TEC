@@ -1,9 +1,18 @@
-<div class="row">
+{% assign loopindex = 0 %}
 {% for res in include.content %}
-  <div class="col-md-{{ 12 | divided_by: include.content.size }}"
+  {% assign loopindex = loopindex | plus: 1 %}
+  {% assign rowfinder = loopindex | modulo: 4 %}
+  {% if rowfinder == 1 %}
+<div class="row">
+  {% endif %}
+
+  <div class="col-md-3"
        style="text-align: center">
     <img src="{{site.baseurl}}/{{ res.image }}" height="100" border="1">
     <p><a href="{{ res.url }}">{{ res.name }}</a><br></p>
   </div>
-{% endfor %}
+
+  {% if rowfinder == 0 %}
 </div>
+  {% endif %}
+{% endfor %}
