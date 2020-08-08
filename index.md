@@ -30,9 +30,7 @@ Upon completing this course, you will:
 
 | #  | Name | Points | Assigned | Due |
 |:--:|-----||:------:|:--------:|:---:|
-|1 | [Sample Project]({{site.baseurl}}/projects/sample-project.html)  | 50  | Sep 21 | Sep 30 |
-|2 | [Sample Project]({{site.baseurl}}/projects/sample-project.html) | 100 | Oct 16 | Nov 1 |
-|3 | [Sample Project]({{site.baseurl}}/projects/sample-project.html) | 200 | Nov 18 | Final Exam Day |
+|1 | [Project the First]({{site.baseurl}}/projects/discovery.html) | 100 | Jan 57 | Jan 58 |
 
 ## <a name="scale">Grading Scale</a>
 
