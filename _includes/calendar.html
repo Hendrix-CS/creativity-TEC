@@ -1,0 +1,65 @@
+<table>
+<thead>
+<colgroup>
+<col width="10%" />
+<col width="20%" />
+<col width="20%" style="border-right: 1px solid black" />
+<col width="10%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<tr>
+<td colspan="3" class="section"><b>Section 1</b></td>
+<td colspan="3" class="section"><b>Section 2</b></td>
+</tr>
+<tr class="header">
+<th>Date</th>
+<th>Topic</th>
+<th>Links & assignments</th>
+<th>Date</th>
+<th>Topic</th>
+<th>Links & assignments</th>
+</tr>
+</thead>
+<tbody>
+
+{% for day in include.content %}
+
+  {% if day.unit %}
+<tr>
+  <td markdown="span" colspan="6" class="unit"><b>{{ day.unit }}</b></td>
+</tr>
+<tr class="header">
+<th>Date</th>
+<th>Topic</th>
+<th>Links & assignments</th>
+<th>Date</th>
+<th>Topic</th>
+<th>Links & assignments</th>
+</tr>
+
+  {% elsif day.instr1 == "group" %}
+<tr>
+<td markdown="span" class="group">{{ day.date }}</td>
+<td markdown="span" colspan="5" style="text-align: center">{{ day.topic1 }}</td>
+</tr>
+  {% else %}
+<tr>
+<td markdown="span" class="{{ day.instr1 }}">{{ day.date }}</td>
+<td markdown="span">{{ day.topic1 }}</td>
+<td markdown="span">{{ day.notes1 }}</td>
+
+<td markdown="span" class="{{ day.instr2 }}">{{ day.date }}</td>
+<td markdown="span">{{ day.topic2 }}</td>
+<td markdown="span">{{ day.notes2 }}</td>
+</tr>
+{% endif %}
+
+{% if day.date contains "F" %}
+<tr><td>&nbsp;</td></tr>
+{% endif %}
+
+{% endfor %}
+
+</tbody>
+</table>

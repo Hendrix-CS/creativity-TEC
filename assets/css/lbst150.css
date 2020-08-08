@@ -39,7 +39,12 @@ a {
 
 td.section {
     text-align: center;
-    background-color: #D90D1E;
+    background-color: #048ABF;
+}
+
+td.unit {
+    text-align: center;
+    background-color: #048ABF;
 }
 
 td.group {
@@ -48,10 +53,12 @@ td.group {
 }
 
 td.yorgey {
+    text-align: center;
     background-color: #03A63C;
 }
 
 td.gill {
+    text-align: center;
     background-color: #F2CB05;
 }
 
