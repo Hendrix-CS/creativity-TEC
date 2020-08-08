@@ -15,7 +15,44 @@ body {
 }
 
 .bg-primary {
-    background-color: green !important;
+    background-color: #03A63C !important;
+}
+
+/* #D90D1E */
+/* #0477BF */
+/* #048ABF */
+/* #03A63C */
+/* #F2CB05 */
+
+/* #DB7078 */
+/* #7B628F */
+/* #5EB9F5 */
+/* #5CA875 */
+/* #F5E381 */
+
+a {
+  color: #048ABF;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+td.section {
+    text-align: center;
+    background-color: #7B628F;
+}
+
+td.group {
+    text-align: center;
+    background-color: #DB7078;
+}
+
+td.yorgey {
+    background-color: #5CA875;
+}
+
+td.gill {
+    background-color: #F5E381;
 }
 
 .internal-header:before {
