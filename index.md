@@ -35,8 +35,8 @@ Upon completing this course, you will:
 <col width="20%" />
 </colgroup>
 <tr>
-<td colspan="3" style="text-align: center; background-color: yellow">Section 01</td>
-<td colspan="3" style="text-align: center; background-color: yellow">Section 02</td>
+<td colspan="3" class="section">Section 1</td>
+<td colspan="3" class="section">Section 2</td>
 </tr>
 <tr class="header">
 <th>Date</th>
@@ -50,21 +50,43 @@ Upon completing this course, you will:
 <tbody>
 
 <tr>
-<td markdown="span">W 8/19</td>
+<td markdown="span" class="group">W 8/19</td>
+<td markdown="span" colspan="5" style="text-align: center">TEC group meeting</td>
+</tr>
+
+<tr>
+<td markdown="span" class="group">F 8/21</td>
+<td markdown="span" colspan="5"></td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td markdown="span" class="yorgey">M 8/24</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">W 8/19</td>
+<td markdown="span" class="gill">M 8/24</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
 
 <tr>
-<td markdown="span">F 8/21</td>
+<td markdown="span" class="yorgey">W 8/26</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">F 8/21</td>
+<td markdown="span" class="gill">W 8/26</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr>
+<td markdown="span" class="yorgey">F 8/28</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="gill">F 8/28</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
@@ -72,63 +94,31 @@ Upon completing this course, you will:
 <tr><td>&nbsp;</td></tr>
 
 <tr>
-<td markdown="span">M 8/24</td>
+<td markdown="span" class="yorgey">M 8/31</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">M 8/24</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr>
-<td markdown="span">W 8/26</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">W 8/26</td>
+<td markdown="span" class="gill">M 8/31</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
 
 <tr>
-<td markdown="span">F 8/28</td>
+<td markdown="span" class="yorgey">W 9/2</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">F 8/28</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr><td>&nbsp;</td></tr>
-
-<tr>
-<td markdown="span">M 8/31</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">M 8/31</td>
+<td markdown="span" class="gill">W 9/2</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
 
 <tr>
-<td markdown="span">W 9/2</td>
+<td markdown="span" class="yorgey">F 9/4</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">W 9/2</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr>
-<td markdown="span">F 9/4</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">F 9/4</td>
+<td markdown="span" class="gill">F 9/4</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
@@ -136,63 +126,31 @@ Upon completing this course, you will:
 <tr><td>&nbsp;</td></tr>
 
 <tr>
-<td markdown="span">M 9/7</td>
+<td markdown="span" class="gill">M 9/7</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">M 9/7</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr>
-<td markdown="span">W 9/9</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">W 9/9</td>
+<td markdown="span" class="yorgey">M 9/7</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
 
 <tr>
-<td markdown="span">F 9/11</td>
+<td markdown="span" class="gill">W 9/9</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">F 9/11</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr><td>&nbsp;</td></tr>
-
-<tr>
-<td markdown="span">M 9/14</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">M 9/14</td>
+<td markdown="span" class="yorgey">W 9/9</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
 
 <tr>
-<td markdown="span">W 9/16</td>
+<td markdown="span" class="gill">F 9/11</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">W 9/16</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr>
-<td markdown="span">F 9/18</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">F 9/18</td>
+<td markdown="span" class="yorgey">F 9/11</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
@@ -200,63 +158,31 @@ Upon completing this course, you will:
 <tr><td>&nbsp;</td></tr>
 
 <tr>
-<td markdown="span">M 9/21</td>
+<td markdown="span" class="gill">M 9/14</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">M 9/21</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr>
-<td markdown="span">W 9/23</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">W 9/23</td>
+<td markdown="span" class="yorgey">M 9/14</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
 
 <tr>
-<td markdown="span">F 9/25</td>
+<td markdown="span" class="gill">W 9/16</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">F 9/25</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr><td>&nbsp;</td></tr>
-
-<tr>
-<td markdown="span">M 9/28</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">M 9/28</td>
+<td markdown="span" class="yorgey">W 9/16</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
 
 <tr>
-<td markdown="span">W 9/30</td>
+<td markdown="span" class="gill">F 9/18</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">W 9/30</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr>
-<td markdown="span">F 10/2</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">F 10/2</td>
+<td markdown="span" class="yorgey">F 9/18</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
@@ -264,31 +190,31 @@ Upon completing this course, you will:
 <tr><td>&nbsp;</td></tr>
 
 <tr>
-<td markdown="span">M 10/5</td>
+<td markdown="span" class="yorgey">M 9/21</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">M 10/5</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr>
-<td markdown="span">W 10/7</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">W 10/7</td>
+<td markdown="span" class="gill">M 9/21</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
 
 <tr>
-<td markdown="span">F 10/9</td>
+<td markdown="span" class="yorgey">W 9/23</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">F 10/9</td>
+<td markdown="span" class="gill">W 9/23</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr>
+<td markdown="span" class="yorgey">F 9/25</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="gill">F 9/25</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
@@ -296,31 +222,95 @@ Upon completing this course, you will:
 <tr><td>&nbsp;</td></tr>
 
 <tr>
-<td markdown="span">M 10/12</td>
+<td markdown="span" class="yorgey">M 9/28</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">M 10/12</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr>
-<td markdown="span">W 10/14</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">W 10/14</td>
+<td markdown="span" class="gill">M 9/28</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
 
 <tr>
-<td markdown="span">F 10/16</td>
+<td markdown="span" class="yorgey">W 9/30</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">F 10/16</td>
+<td markdown="span" class="gill">W 9/30</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr>
+<td markdown="span" class="yorgey">F 10/2</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="gill">F 10/2</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td markdown="span" class="gill">M 10/5</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="yorgey">M 10/5</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr>
+<td markdown="span" class="gill">W 10/7</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="yorgey">W 10/7</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr>
+<td markdown="span" class="gill">F 10/9</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="yorgey">F 10/9</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td markdown="span" class="gill">M 10/12</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="yorgey">M 10/12</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr>
+<td markdown="span" class="gill">W 10/14</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="yorgey">W 10/14</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr>
+<td markdown="span" class="gill">F 10/16</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="yorgey">F 10/16</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
@@ -360,63 +350,31 @@ Upon completing this course, you will:
 <tr><td>&nbsp;</td></tr>
 
 <tr>
-<td markdown="span">M 10/26</td>
+<td markdown="span" class="yorgey">M 10/26</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">M 10/26</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr>
-<td markdown="span">W 10/28</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">W 10/28</td>
+<td markdown="span" class="gill">M 10/26</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
 
 <tr>
-<td markdown="span">F 10/30</td>
+<td markdown="span" class="yorgey">W 10/28</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">F 10/30</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr><td>&nbsp;</td></tr>
-
-<tr>
-<td markdown="span">M 11/2</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">M 11/2</td>
+<td markdown="span" class="gill">W 10/28</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
 
 <tr>
-<td markdown="span">W 11/4</td>
+<td markdown="span" class="yorgey">F 10/30</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">W 11/4</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr>
-<td markdown="span">F 11/6</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">F 11/6</td>
+<td markdown="span" class="gill">F 10/30</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
@@ -424,31 +382,31 @@ Upon completing this course, you will:
 <tr><td>&nbsp;</td></tr>
 
 <tr>
-<td markdown="span">M 11/9</td>
+<td markdown="span" class="yorgey">M 11/2</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">M 11/9</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr>
-<td markdown="span">W 11/11</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">W 11/11</td>
+<td markdown="span" class="gill">M 11/2</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
 
 <tr>
-<td markdown="span">F 11/13</td>
+<td markdown="span" class="yorgey">W 11/4</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">F 11/13</td>
+<td markdown="span" class="gill">W 11/4</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr>
+<td markdown="span" class="yorgey">F 11/6</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="gill">F 11/6</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
@@ -456,31 +414,63 @@ Upon completing this course, you will:
 <tr><td>&nbsp;</td></tr>
 
 <tr>
-<td markdown="span">M 11/16</td>
+<td markdown="span" class="gill">M 11/9</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">M 11/16</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-</tr>
-
-<tr>
-<td markdown="span">W 11/18</td>
-<td markdown="span">Topic</td>
-<td markdown="span">Links, assignments etc.</td>
-
-<td markdown="span">W 11/18</td>
+<td markdown="span" class="yorgey">M 11/9</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>
 
 <tr>
-<td markdown="span">F 11/20</td>
+<td markdown="span" class="gill">W 11/11</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 
-<td markdown="span">F 11/20</td>
+<td markdown="span" class="yorgey">W 11/11</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr>
+<td markdown="span" class="gill">F 11/13</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="yorgey">F 11/13</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td markdown="span" class="gill">M 11/16</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="yorgey">M 11/16</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr>
+<td markdown="span" class="gill">W 11/18</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="yorgey">W 11/18</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+</tr>
+
+<tr>
+<td markdown="span" class="gill">F 11/20</td>
+<td markdown="span">Topic</td>
+<td markdown="span">Links, assignments etc.</td>
+
+<td markdown="span" class="yorgey">F 11/20</td>
 <td markdown="span">Topic</td>
 <td markdown="span">Links, assignments etc.</td>
 </tr>

@@ -39,20 +39,20 @@ a {
 
 td.section {
     text-align: center;
-    background-color: #7B628F;
+    background-color: #D90D1E;
 }
 
 td.group {
     text-align: center;
-    background-color: #DB7078;
+    background-color: #048ABF;
 }
 
 td.yorgey {
-    background-color: #5CA875;
+    background-color: #03A63C;
 }
 
 td.gill {
-    background-color: #F5E381;
+    background-color: #F2CB05;
 }
 
 .internal-header:before {
