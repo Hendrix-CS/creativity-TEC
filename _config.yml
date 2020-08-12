@@ -43,10 +43,12 @@ navigation:
     subfolderitems:
       - page: Calendar
         url: '#calendar'
+      - page: Grading Policies
+        url: '#grading'
+      - page: Writing Assignments
+        url: '#writing'
       - page: Projects
         url: '#projects'
-      - page: Scale
-        url: '#scale'
   - page: Commitments
     url: '#commitments'
 
@@ -65,13 +67,16 @@ instructors:
 
 offerings:
   - name: Section 1
-    loc: online
+    loc: "<a href='https://teams.microsoft.com/l/channel/19%3a79022d165f104dff8dc3f2dc33a34f8c%40thread.tacv2/General?groupId=0fbacc55-c3c7-4d1c-983d-f4949a810a12&tenantId=0cf6c18c-d0d2-4a3f-83d0-663d620a63d3'>TEC: Creativity (Section 1)</a> on Microsoft Teams"
     time: MWF 12:10pm - 1:00pm
-    instructor: gill
   - name: Section 2
-    loc: online
+    loc: "<a href='https://teams.microsoft.com/l/channel/19%3ac619b28cb886417d9a028ccad8926e18%40thread.tacv2/General?groupId=65f0f5f4-a639-46f9-9d2c-44ab4167eafd&tenantId=0cf6c18c-d0d2-4a3f-83d0-663d620a63d3'>TEC: Creativity (Section 2)</a> on Microsoft Teams"
     time: MWF 12:10pm - 1:00pm
-    instructor: yorgey
+
+teams:
+  - section1: "https://teams.microsoft.com/l/channel/19%3a79022d165f104dff8dc3f2dc33a34f8c%40thread.tacv2/General?groupId=0fbacc55-c3c7-4d1c-983d-f4949a810a12&tenantId=0cf6c18c-d0d2-4a3f-83d0-663d620a63d3"
+  - section2: "https://teams.microsoft.com/l/channel/19%3ac619b28cb886417d9a028ccad8926e18%40thread.tacv2/General?groupId=65f0f5f4-a639-46f9-9d2c-44ab4167eafd&tenantId=0cf6c18c-d0d2-4a3f-83d0-663d620a63d3"
+  - group: https://teams.microsoft.com/l/channel/19%3a87c80729304f47b996b776e645471452%40thread.tacv2/General?groupId=f2f35426-5df5-4992-a3d2-9149414caff1&tenantId=0cf6c18c-d0d2-4a3f-83d0-663d620a63d3
 
 resources:
   - name: Recursive Drawing
@@ -105,30 +110,25 @@ calendar:
   - date: W 8/19
 
     instr1: group
-    topic1: "TEC group meeting"
+    topic1: "First meeting (introductions)! 12:10pm on TEC: Creativity (BIG GROUP) team."
 
   - date: F 8/21
 
     instr1: group
-    topic1: "?"
+    topic1: "Course introduction: big questions and themes"
 
   - unit: "Unit 1: Creativity, failure, and discovery"
 
   - date: M 8/24
 
-    instr1: yorgey
-    topic1: "Discussion: fixed vs growth mindset"
-    notes1: "[How to Help Every Child Fulfill Their Potential](https://youtu.be/Yl9TVbAal5s); [Carol Dweck interview](http://onedublin.org/2012/06/19/stanford-universitys-carol-dweck-on-the-growth-mindset-and-education/)"
-
-    instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    instr1: group
+    topic1: "Introduction to Unit 1: Creativity, failure, and discovery"
 
   - date: W 8/26
 
     instr1: yorgey
-    topic1: "Recursive drawing & Eschersketch"
-    notes1: "[Project 1](projects/discovery.html) assigned"
+    topic1: "Recursive drawing"
+    notes1: "[Project: Generative Drawing](projects/generativedrawing.html) assigned (due M 9/21)"
 
     instr2: gill
     topic2: "Topic"
@@ -137,8 +137,8 @@ calendar:
   - date: F 8/28
 
     instr1: yorgey
-    topic1: "Context Free Art"
-    notes1: ""
+    topic1: "Discussion: fixed vs growth mindset"
+    notes1: "[How to Help Every Child Fulfill Their Potential](https://youtu.be/Yl9TVbAal5s); [Carol Dweck interview](http://onedublin.org/2012/06/19/stanford-universitys-carol-dweck-on-the-growth-mindset-and-education/)"
 
     instr2: gill
     topic2: "Topic"
@@ -157,7 +157,7 @@ calendar:
   - date: W 9/2
 
     instr1: yorgey
-    topic1: "Context Free Art"
+    topic1: "Context Free Art? Discussion?"
     notes1: ""
 
     instr2: gill
@@ -167,8 +167,8 @@ calendar:
   - date: F 9/4
 
     instr1: yorgey
-    topic1: "Context Free Art"
-    notes1: "[Project 2](XXX) assigned"
+    topic1: "Context Free Art? Discussion?"
+    notes1: ""
 
     instr2: gill
     topic2: "Topic"
@@ -226,25 +226,15 @@ calendar:
 
   - date: F 9/18
 
-    instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
-
-    instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    instr1: group
+    topic1: "Wrap up Unit 1"
 
   - unit: "Unit 2: Creativity and being human"
 
   - date: M 9/21
 
-    instr1: yorgey
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
-
-    instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    instr1: group
+    topic1: "Introduction to Unit 2: Creativity and being human"
 
   - date: W 9/23
 
@@ -348,13 +338,8 @@ calendar:
 
   - date: F 10/16
 
-    instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
-
-    instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    instr1: group
+    topic1: "Wrap up Unit 2"
 
   - date: M 10/19
 
@@ -375,13 +360,8 @@ calendar:
 
   - date: M 10/26
 
-    instr1: yorgey
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
-
-    instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    instr1: group
+    topic1: "Introduction to Unit 3: Creativity and social context"
 
   - date: W 10/28
 
@@ -485,18 +465,20 @@ calendar:
 
   - date: F 11/20
 
-    instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
-
-    instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    instr1: group
+    topic1: "Wrap up Unit 3"
 
   - date: M 11/23
 
     instr1: group
     topic1: "Topic"
+
+  - blank: ""
+
+  - date: T 12/8
+
+    instr1: group
+    topic1: "Project presentation happy fun time"
 
 # Build settings
 markdown: kramdown

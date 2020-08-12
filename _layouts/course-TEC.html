@@ -1,0 +1,32 @@
+---
+layout: course
+---
+
+      <div class="row">
+      {% for offer in site.offerings %}
+      <div class="col-md-{{12 | divided_by: site.offerings.size}}">
+        <div class="instructor">
+        <h4>{{ offer.name }}</h4>
+        <p>{{ offer.time }}</p>
+        <p><div>{{ offer.loc }}</div></p>
+        </div>
+      </div>
+      {% endfor %}
+      </div>
+      <div class="row">
+      {% for inst in site.instructors %}
+      <div class="col-md-{{12 | divided_by: site.instructors.size}}">
+        <div class="instructor">
+        <p><a href="{{ inst.web}}">{{ inst.name}}</a><br>
+        {{ inst.email }}<br>
+        {{ inst.phone }}<br>
+        {% if inst.officehours %}
+          <a href="{{ inst.officehours }}">Office Hours</a>
+        {% endif %}
+        </p>
+        </div>
+      </div>
+      {% endfor %}
+      </div>
+
+{{ content }}

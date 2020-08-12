@@ -47,17 +47,17 @@ td.unit {
     background-color: #048ABF;
 }
 
-td.group {
+.group {
     text-align: center;
     background-color: #048ABF;
 }
 
-td.yorgey {
+.yorgey {
     text-align: center;
     background-color: #03A63C;
 }
 
-td.gill {
+.gill {
     text-align: center;
     background-color: #F2CB05;
 }
@@ -101,6 +101,11 @@ table{
     margin-bottom: 10px;
     margin-left: 10px;
     width: 95%;
+}
+
+table.center {
+    margin-left:auto;
+    margin-right:auto;
 }
 
 table th{

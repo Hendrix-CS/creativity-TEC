@@ -1,3 +1,16 @@
+<table style="width: 10%" class="center">
+  <thead>
+    <tr class="header">
+      <th>Key</th>
+    </tr>
+  </thead>
+  <tr><td class="gill">Gill</td></tr>
+  <tr><td class="yorgey">Yorgey</td></tr>
+  <tr><td class="group">BIG GROUP</td></tr>
+</table>
+
+<br/>
+
 <table>
 <thead>
 <colgroup>
@@ -20,6 +33,7 @@
 <th>Topic</th>
 <th>Links & assignments</th>
 </tr>
+<tr><td colspan="6">&nbsp;</td></tr>
 </thead>
 <tbody>
 
@@ -37,11 +51,18 @@
 <th>Topic</th>
 <th>Links & assignments</th>
 </tr>
+<tr><td colspan="6">&nbsp;</td></tr>
+
+  {% elsif day.blank %}
+
+<tr><td>&nbsp;</td></tr>
 
   {% elsif day.instr1 == "group" %}
 <tr>
 <td markdown="span" class="group">{{ day.date }}</td>
-<td markdown="span" colspan="5" style="text-align: center">{{ day.topic1 }}</td>
+<td markdown="span" colspan="5" style="text-align: center">
+  {{ day.topic1 }}
+</td>
 </tr>
   {% else %}
 <tr>
