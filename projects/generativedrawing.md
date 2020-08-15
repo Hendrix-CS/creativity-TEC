@@ -52,5 +52,3 @@ You should turn in
 - your reflection
 
 XXX instructions on how to turn in.  Upload to Teams?
-
-------------------------------------------------------------------------

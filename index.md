@@ -54,7 +54,7 @@ following scale, out of a possible 1100 points:
 | 650-749  | D     |
 | < 650    | F     |
 
-### Rolling submissions
+### <a name="rolling">Rolling submissions</a>
 
 Projects and writing assignments will be accepted and graded on a
 **rolling** basis:
@@ -76,10 +76,16 @@ Projects and writing assignments will be accepted and graded on a
 
 ## <a name="writing">Writing Assignments</a>
 
-You will complete two writing assignments in the course.
+You will complete two writing assignments in the course.  You will be
+given several weeks to complete each assignment, in which you will
+draw on class discussions and assignments to explore a particular set
+of questions.
 
-XXX are they required to revise?  Have a workshop day for feedback &
-revision?  Just encourage them to make use of rolling submission?
+For each writing assignment, we will have a "workshop
+day" where you will give and receive peer feedback on a draft. You are
+also welcome and encouraged to make use of [rolling
+submission](#rolling) to get feedback from us as well.
+
 
 | Assignment                   | Points | Due |
 |------------------------------|:------:|-----|

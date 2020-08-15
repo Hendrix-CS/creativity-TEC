@@ -131,8 +131,8 @@ calendar:
     notes1: "[Project: Generative Drawing](projects/generativedrawing.html) assigned (due M 9/21)"
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: F 8/28
 
@@ -141,8 +141,8 @@ calendar:
     notes1: "[How to Help Every Child Fulfill Their Potential](https://youtu.be/Yl9TVbAal5s); [Carol Dweck interview](http://onedublin.org/2012/06/19/stanford-universitys-carol-dweck-on-the-growth-mindset-and-education/)"
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: M 8/31
 
@@ -151,8 +151,8 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: W 9/2
 
@@ -161,8 +161,8 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: F 9/4
 
@@ -171,58 +171,58 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: M 9/7
 
     instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: W 9/9
 
     instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: F 9/11
 
     instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: M 9/14
 
     instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: W 9/16
 
     instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: F 9/18
 
@@ -239,229 +239,231 @@ calendar:
   - date: W 9/23
 
     instr1: yorgey
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: F 9/25
 
     instr1: yorgey
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: M 9/28
 
     instr1: yorgey
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: W 9/30
 
     instr1: yorgey
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: F 10/2
 
     instr1: yorgey
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: M 10/5
 
-    instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
-
-    instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    instr1: group
+    topic1: Writing discussion
 
   - date: W 10/7
 
-    instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
-
-    instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    instr1: group
+    topic1: "Draft workshop"
 
   - date: F 10/9
 
     instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: M 10/12
 
     instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: W 10/14
 
     instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: F 10/16
 
-    instr1: group
-    topic1: "Wrap up Unit 2"
+    instr1: gill
+    topic1: ""
+    notes1: ""
+
+    instr2: yorgey
+    topic2: ""
+    notes2: ""
 
   - date: M 10/19
 
-    instr1: group
-    topic1: "Topic"
+    instr1: gill
+    topic1: ""
+    notes1: ""
+
+    instr2: yorgey
+    topic2: ""
+    notes2: ""
 
   - date: W 10/21
 
     instr1: group
-    topic1: "Topic"
+    topic1: "Wrap up Unit 2"
+
+  - blank: ""
+
+  - unit: "Unit 3: Creativity and social context"
 
   - date: F 10/23
 
     instr1: group
-    topic1: "Topic"
-
-  - unit: "Unit 3: Creativity and social context"
+    topic1: "Introduction to Unit 3: Creativity and social context"
 
   - date: M 10/26
 
-    instr1: group
-    topic1: "Introduction to Unit 3: Creativity and social context"
+    instr1: yorgey
+    topic1: ""
+    notes1: ""
+
+    instr2: gill
+    topic2: ""
+    notes2: ""
 
   - date: W 10/28
 
     instr1: yorgey
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: F 10/30
 
     instr1: yorgey
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: M 11/2
 
     instr1: yorgey
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: W 11/4
 
     instr1: yorgey
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: F 11/6
 
-    instr1: yorgey
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
-
-    instr2: gill
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    instr1: group
+    topic1: "Draft workshop"
 
   - date: M 11/9
 
     instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: W 11/11
 
     instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: F 11/13
 
     instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: M 11/16
 
     instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: W 11/18
 
     instr1: gill
-    topic1: "Topic"
-    notes1: "Links, assignments, etc."
+    topic1: ""
+    notes1: ""
 
     instr2: yorgey
-    topic2: "Topic"
-    notes2: "Links, assignments, etc."
+    topic2: ""
+    notes2: ""
 
   - date: F 11/20
 
@@ -471,7 +473,7 @@ calendar:
   - date: M 11/23
 
     instr1: group
-    topic1: "Topic"
+    topic1: ""
 
   - blank: ""
 
