@@ -229,14 +229,26 @@ calendar:
     instr1: group
     topic1: "Wrap up Unit 1"
 
+  - date: M 9/21
+
+    instr1: group
+    topic1: Writing discussion
+
+  - date: W 9/23
+
+    instr1: group
+    topic1: "Draft workshop"
+
+  - blank: ""
+
   - unit: "Unit 2: Creativity and being human"
 
-  - date: M 9/21
+  - date: F 9/25
 
     instr1: group
     topic1: "Introduction to Unit 2: Creativity and being human"
 
-  - date: W 9/23
+  - date: M 9/28
 
     instr1: yorgey
     topic1: ""
@@ -246,7 +258,7 @@ calendar:
     topic2: "Taylor: 'SuperCreativity'"
     notes2: "(https://www.youtube.com/watch?v=14SOoTXqRys)"
 
-  - date: F 9/25
+  - date: W 9/30
 
     instr1: yorgey
     topic1: ""
@@ -256,7 +268,7 @@ calendar:
     topic2: "Generative Art: Lewitt, Epler, Eno, Watz, Reas"
     notes2: "class discussion"
 
-  - date: M 9/28
+  - date: F 10/2
 
     instr1: yorgey
     topic1: ""
@@ -266,35 +278,25 @@ calendar:
     topic2: "Proj. 2-Digital vs. Analog after Sol Lewitt assigned (due F 10/23)"
     notes2: "Bring all drawing supplies"
 
-  - date: W 9/30
-
-    instr1: yorgey
-    topic1: ""
-    notes1: ""
-
-    instr2: gill
-    topic2: "Proj. 2-Digital vs. Analog After Sol Lewitt"
-    notes2: "Bring all drawing supplies"
-
-  - date: F 10/2
-
-    instr1: yorgey
-    topic1: ""
-    notes1: ""
-
-    instr2: gill
-    topic2: "Proj. 2-Digital vs. Analog After Sol Lewitt"
-    notes2: "Bring all drawing supplies"
-
   - date: M 10/5
 
-    instr1: group
-    topic1: Writing discussion
+    instr1: yorgey
+    topic1: ""
+    notes1: ""
+
+    instr2: gill
+    topic2: "Proj. 2-Digital vs. Analog After Sol Lewitt"
+    notes2: "Bring all drawing supplies"
 
   - date: W 10/7
 
-    instr1: group
-    topic1: "Draft workshop"
+    instr1: yorgey
+    topic1: ""
+    notes1: ""
+
+    instr2: gill
+    topic2: "Proj. 2-Digital vs. Analog After Sol Lewitt"
+    notes2: "Bring all drawing supplies"
 
   - date: F 10/9
 
