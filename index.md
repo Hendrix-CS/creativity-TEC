@@ -99,10 +99,10 @@ Dr. Yorgey, two for Prof. Gill, and one combined project.
 
 | Project                                                                            | Points | Due    |
 |------------------------------------------------------------------------------------|:------:|--------|
-| [Cut Paper Collage]({{site.baseurl}}/projects/collage.html)                        | 100    | Sep 21 |
+| [Collage]({{site.baseurl}}/projects/collage.html)                        | 100    | Sep 21 |
 | [Generative Drawing]({{site.baseurl}}/projects/generativedrawing.html)             | 100    | Sep 21 |
 | [Digital vs. Analog after Sol LeWitt]({{site.baseurl}}/projects/sollewitt.html)    | 200    | 10/26?      |
-| [Site Specific Creative Intervention]({{site.baseurl}}/projects/intervention.html) | 150    | ?      |
+| [Artistic Intervention]({{site.baseurl}}/projects/intervention.html) | 150    | ?      |
 | [Context Free Art Remix]({{site.baseurl}}/projects/remix.html)                     | 150    | ?      |
 
 ## <a name="gallery">Digital Gallery</a>
