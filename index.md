@@ -97,13 +97,13 @@ submission](#rolling) to get feedback from us as well.
 You will complete **five** creative projects in this course: two for
 Dr. Yorgey, two for Prof. Gill, and one combined project.
 
-| Project                                                                            | Points | Due    |
-|------------------------------------------------------------------------------------|:------:|--------|
-| [Collage]({{site.baseurl}}/projects/collage.html)                        | 100    | Sep 21 |
-| [Generative Drawing]({{site.baseurl}}/projects/generativedrawing.html)             | 100    | Sep 21 |
-| [Digital vs. Analog after Sol LeWitt]({{site.baseurl}}/projects/sollewitt.html)    | 200    | 10/26?      |
-| [Artistic Intervention]({{site.baseurl}}/projects/intervention.html) | 150    | ?      |
-| [Context Free Art Remix]({{site.baseurl}}/projects/remix.html)                     | 150    | ?      |
+| Project                                                                         | Points | Due    |
+|---------------------------------------------------------------------------------|:------:|--------|
+| [Collage]({{site.baseurl}}/projects/collage.html)                               | 100    | Sep 21 |
+| [Generative Drawing]({{site.baseurl}}/projects/generativedrawing.html)          | 100    | Sep 21 |
+| [Digital vs. Analog after Sol LeWitt]({{site.baseurl}}/projects/sollewitt.html) | 200    | Nov 9  |
+| [Artistic Intervention]({{site.baseurl}}/projects/intervention.html)            | 150    | Dec 8  |
+| [Context Free Art Remix]({{site.baseurl}}/projects/remix.html)                  | 150    | Dec 8  |
 
 ## <a name="gallery">Digital Gallery</a>
 
