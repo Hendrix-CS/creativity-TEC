@@ -151,8 +151,8 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Proj. 1-Abstracted Collage"
-    notes2: "Bring collage materials, paper, scissors, tape assigned (due M 9/28)"
+    topic2: "Proj. 1-Abstracted Collage (due M 9/28)"
+    notes2: "Bring collage materials, paper, scissors, tape"
 
   - date: W 9/2
 
@@ -197,8 +197,8 @@ calendar:
   - date: F 9/11
 
     instr1: gill
-    topic1: "Proj. 1-Abstracted Collage"
-    notes1: "Bring collage materials, paper, scissors, tape assigned (due M 9/28)"
+    topic1: "Proj. 1-Abstracted Collage (due M 9/28)"
+    notes1: "Bring collage materials, paper, scissors, tape"
 
     instr2: yorgey
     topic2: ""
@@ -275,8 +275,8 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Proj. 2-Digital vs. Analog after Sol Lewitt"
-    notes2: "Bring all drawing supplies assigned (Due M 11/9)"
+    topic2: "Proj. 2-Digital vs. Analog after Sol Lewitt (Due M 11/9)"
+    notes2: "Bring all drawing supplies"
 
   - date: M 10/5
 
@@ -321,8 +321,8 @@ calendar:
   - date: W 10/14
 
     instr1: gill
-    topic1: "Proj. 2-Digital vs. Analog after Sol Lewitt"
-    notes1: "Bring all drawing supplies assigned (Due M 11/9)"
+    topic1: "Proj. 2-Digital vs. Analog after Sol Lewitt (Due M 11/9)"
+    notes1: "Bring all drawing supplies"
 
     instr2: yorgey
     topic2: ""
@@ -389,8 +389,8 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Proj. 3-The Artistic Intervention"
-    notes2: "work on project plan assigned (due T 12/8)"
+    topic2: "Proj. 3-The Artistic Intervention (due T 12/8)"
+    notes2: "work on project plan"
 
   - date: M 11/2
 
@@ -440,8 +440,8 @@ calendar:
   - date: F 11/13
 
     instr1: gill
-    topic1: "Proj. 3-The Artistic Intervention"
-    notes1: "work on project plan assigned (due T 12/8)"
+    topic1: "Proj. 3-The Artistic Intervention (due T 12/8)"
+    notes1: "work on project plan"
 
     instr2: yorgey
     topic2: ""
