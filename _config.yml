@@ -155,7 +155,7 @@ calendar:
   - date: M 8/31
 
     instr1: yorgey
-    topic1: "Context Free Art"
+    topic1: "Introduction to Context Free Art"
     notes1: ""
 
     instr2: gill
@@ -165,8 +165,8 @@ calendar:
   - date: W 9/2
 
     instr1: yorgey
-    topic1: "Context Free Art? Discussion?"
-    notes1: ""
+    topic1: "Context Free Art"
+    notes1: "Install [Context Free Art](https://www.contextfreeart.org/)"
 
     instr2: gill
     topic2: "Proj. 1-Abstracted Collage"
@@ -175,7 +175,7 @@ calendar:
   - date: F 9/4
 
     instr1: yorgey
-    topic1: "Context Free Art? Discussion?"
+    topic1: "Context Free Art"
     notes1: ""
 
     instr2: gill
@@ -189,8 +189,8 @@ calendar:
     notes1: "[Syed: How Creativity is Helped By Failure](https://www.bbc.com/news/magazine-34775411)"
 
     instr2: yorgey
-    topic2: ""
-    notes2: ""
+    topic2: "Recursive drawing"
+    notes2: "[Project: Generative Drawing](projects/generativedrawing.html) assigned (due M 9/28)"
 
   - date: W 9/9
 
@@ -199,8 +199,8 @@ calendar:
     notes1: "[Kentridge: Find The Less Good Idea](https://www.youtube.com/watch?v=SmaXqktW3A8&t=18s)"
 
     instr2: yorgey
-    topic2: ""
-    notes2: ""
+    topic2: "Discussion: fixed vs growth mindset"
+    notes2: "[How to Help Every Child Fulfill Their Potential](https://youtu.be/Yl9TVbAal5s); [Carol Dweck interview](http://onedublin.org/2012/06/19/stanford-universitys-carol-dweck-on-the-growth-mindset-and-education/)"
 
   - date: F 9/11
 
@@ -209,7 +209,7 @@ calendar:
     notes1: "Bring collage materials, paper, scissors, tape"
 
     instr2: yorgey
-    topic2: ""
+    topic2: "Introduction to Context Free Art"
     notes2: ""
 
   - date: M 9/14
@@ -219,8 +219,8 @@ calendar:
     notes1: "Bring collage materials, paper, scissors, tape"
 
     instr2: yorgey
-    topic2: ""
-    notes2: ""
+    topic2: "Context Free Art"
+    notes2: "Install [Context Free Art](https://www.contextfreeart.org/)"
 
   - date: W 9/16
 
@@ -229,7 +229,7 @@ calendar:
     notes1: "Bring collage materials, paper, scissors, tape"
 
     instr2: yorgey
-    topic2: ""
+    topic2: "Context Free Art"
     notes2: ""
 
   - date: F 9/18
