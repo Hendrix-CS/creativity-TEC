@@ -99,7 +99,7 @@ Dr. Yorgey, two for Prof. Gill, and one combined project.
 
 | Project                                                                         | Points | Due    |
 |---------------------------------------------------------------------------------|:------:|--------|
-| [Collage]({{site.baseurl}}/projects/collage.html)                               | 100    | Sep 28 |
+| [Abstracted Collage]({{site.baseurl}}/projects/collage.html)                    | 100    | Sep 28 |
 | [Generative Drawing]({{site.baseurl}}/projects/generativedrawing.html)          | 100    | Sep 28 |
 | [Digital vs. Analog after Sol LeWitt]({{site.baseurl}}/projects/sollewitt.html) | 200    | Nov 9  |
 | [Artistic Intervention]({{site.baseurl}}/projects/intervention.html)            | 150    | Dec 8  |
