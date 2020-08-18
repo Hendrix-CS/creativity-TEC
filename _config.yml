@@ -151,7 +151,7 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Proj. 1-Collage assigned (due M 9/21)"
+    topic2: "Proj. 1-Abstracted Collage"
     notes2: "Bring collage materials, paper, scissors, tape"
 
   - date: W 9/2
@@ -161,7 +161,7 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Proj. 1-Collage"
+    topic2: "Proj. 1-Abstracted Collage"
     notes2: "Bring collage materials, paper, scissors, tape"
 
   - date: F 9/4
@@ -171,14 +171,14 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Proj. 1-Collage"
+    topic2: "Proj. 1-Abstracted Collage"
     notes2: "Bring collage materials, paper, scissors, tape"
 
   - date: M 9/7
 
     instr1: gill
-    topic1: "Syed: 'How Creativity is Helped By Failure'"
-    notes1: "(https://www.bbc.com/news/magazine-34775411)"
+    topic1: "Discussion"
+    notes1: "[Syed: How Creativity is Helped By Failure](https://www.bbc.com/news/magazine-34775411)"
 
     instr2: yorgey
     topic2: ""
@@ -187,8 +187,8 @@ calendar:
   - date: W 9/9
 
     instr1: gill
-    topic1: "Kentridge: 'Find The Less Good Idea'"
-    notes1: "(https://www.youtube.com/watch?v=SmaXqktW3A8&t=18s)"
+    topic1: "Discussion"
+    notes1: "[Kentridge: Find The Less Good Idea](https://www.youtube.com/watch?v=SmaXqktW3A8&t=18s)"
 
     instr2: yorgey
     topic2: ""
@@ -197,7 +197,7 @@ calendar:
   - date: F 9/11
 
     instr1: gill
-    topic1: "Proj. 1-Collage assigned (due M 9/21)"
+    topic1: "Proj. 1-Abstracted Collage"
     notes1: "Bring collage materials, paper, scissors, tape"
 
     instr2: yorgey
@@ -207,7 +207,7 @@ calendar:
   - date: M 9/14
 
     instr1: gill
-    topic1: "Proj. 1- Collage"
+    topic1: "Proj. 1- Abstracted Collage"
     notes1: "Bring collage materials, paper, scissors, tape"
 
     instr2: yorgey
@@ -217,7 +217,7 @@ calendar:
   - date: W 9/16
 
     instr1: gill
-    topic1: "Proj. 1-Collage"
+    topic1: "Proj. 1-Abstracted Collage"
     notes1: "Bring collage materials, paper, scissors, tape"
 
     instr2: yorgey
@@ -255,8 +255,8 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Taylor: 'SuperCreativity'"
-    notes2: "(https://www.youtube.com/watch?v=14SOoTXqRys)"
+    topic2: "Discussion"
+    notes2: "[Taylor: 'SuperCreativity'](https://www.youtube.com/watch?v=14SOoTXqRys)"
 
   - date: W 9/30
 
@@ -265,8 +265,8 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Generative Art: Lewitt, Epler, Eno, Watz, Reas"
-    notes2: "class discussion"
+    topic2: "Discussion"
+    notes2: "[Generative Art: Lewitt, Epler, Eno, Watz, Reas](https://massmoca.org/sol-lewitt/)"
 
   - date: F 10/2
 
@@ -275,7 +275,7 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Proj. 2-Digital vs. Analog after Sol Lewitt assigned (due F 10/23)"
+    topic2: "Proj. 2-Digital vs. Analog after Sol Lewitt assigned"
     notes2: "Bring all drawing supplies"
 
   - date: M 10/5
@@ -301,8 +301,8 @@ calendar:
   - date: F 10/9
 
     instr1: gill
-    topic1: "Taylor: 'SuperCreativity'"
-    notes1: "(https://www.youtube.com/watch?v=14SOoTXqRys)"
+    topic1: "Discussion"
+    notes1: "[Taylor: 'SuperCreativity'](https://www.youtube.com/watch?v=14SOoTXqRys)"
 
     instr2: yorgey
     topic2: ""
@@ -311,8 +311,8 @@ calendar:
   - date: M 10/12
 
     instr1: gill
-    topic1: "Generative Art: Lewitt, Epler, Eno, Watz, Reas"
-    notes1: "class discussion"
+    topic1: "Discussion"
+    notes1: "[Generative Art: Lewitt, Epler, Eno, Watz, Reas](https://massmoca.org/sol-lewitt/)"
 
     instr2: yorgey
     topic2: ""
@@ -321,7 +321,7 @@ calendar:
   - date: W 10/14
 
     instr1: gill
-    topic1: "Proj. 2-Digital vs. Analog after Sol Lewitt assigned (due F 10/23)"
+    topic1: "Proj. 2-Digital vs. Analog after Sol Lewitt"
     notes1: "Bring all drawing supplies"
 
     instr2: yorgey
@@ -369,8 +369,8 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Art that Engages: Swoon, Ai Weiwei, Allora & Calzadilla, Johnson"
-    notes2: "class discussion"
+    topic2: "Discussion"
+    notes2: "[Art that Engages: Swoon & Ai Weiwei](https://www.youtube.com/watch?v=5298KZuW_JE)(https://art21.org/watch/art-in-the-twenty-first-century/s6/ai-weiwei-in-change-segment/)"
 
   - date: W 10/28
 
@@ -379,8 +379,8 @@ calendar:
     notes1: ""
 
     instr2: gill
-    topic2: "Art that Engages: Swoon, Ai Weiwei, Allora & Calzadilla, Johnson"
-    notes2: "class discussion"
+    topic2: "Discussion"
+    notes2: "[Art that Engages: Allora & Calzadilla and Johnson](https://art21.org/artist/allora-calzadilla/)"
 
   - date: F 10/30
 
@@ -420,8 +420,8 @@ calendar:
   - date: M 11/9
 
     instr1: gill
-    topic1: "Art that Engages: Swoon, Ai Weiwei, Allora & Calzadilla, Johnson"
-    notes1: "class discussion"
+    topic1: "Discussion"
+    notes1: "[Art that Engages: Swoon & Ai Weiwei](https://www.youtube.com/watch?v=5298KZuW_JE)(https://art21.org/watch/art-in-the-twenty-first-century/s6/ai-weiwei-in-change-segment/)"
 
     instr2: yorgey
     topic2: ""
@@ -430,8 +430,8 @@ calendar:
   - date: W 11/11
 
     instr1: gill
-    topic1: "Art that Engages: Swoon, Ai Weiwei, Allora & Calzadilla, Johnson"
-    notes1: "class discussion"
+    topic1: ""
+    notes1: "[Art that Engages: Allora & Calzadilla and Johnson](https://art21.org/artist/allora-calzadilla/)"
 
     instr2: yorgey
     topic2: ""
@@ -440,7 +440,7 @@ calendar:
   - date: F 11/13
 
     instr1: gill
-    topic1: "Proj. 3-The Artistic Intervention assigned (due T 12/8)"
+    topic1: "Proj. 3-The Artistic Intervention"
     notes1: "work on project plan"
 
     instr2: yorgey
@@ -477,7 +477,7 @@ calendar:
     instr1: group
     topic1: ""
 
-  - blank: "TBD"
+  - blank: "Writing 2 is Due"
 
   - date: T 12/8
 
