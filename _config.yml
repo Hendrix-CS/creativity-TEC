@@ -49,8 +49,16 @@ navigation:
         url: '#writing'
       - page: Projects
         url: '#projects'
-  - page: Commitments
-    url: '#commitments'
+  - title: Expectations & Resources
+    subfolderitems:
+      - page: Attendance
+        url: '#attendance'
+      - page: Writing Center
+        url: '#writing_center'
+      - page: Learning Accommodations
+        url: '#accommodations'
+      - page: Physical & Mental Health
+        url: '#health'
 
 instructors:
   - id: yorgey
