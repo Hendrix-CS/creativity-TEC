@@ -482,7 +482,7 @@ calendar:
   - date: T 12/8
 
     instr1: group
-    topic1: "Project presentation happy fun time"
+    topic1: "Art Showcase"
 
 # Build settings
 markdown: kramdown
