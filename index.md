@@ -158,6 +158,22 @@ option that best suits you! Please contact
 [pruneda@hendrix.edu](mailto:pruneda@hendrix.edu) for more
 information.
 
+## <a name="library">Library </a>
+
+Bailey Library's mission is to collaborate and empower all members of
+our community so that they become their best selves, cherish the scope
+of human knowledge, and positively contribute to the world. Whether
+face-to-face or remote, librarians are happy to help locate quality
+resources supporting research and classroom work and to assist with
+the critical evaluation of academic information. Librarians and
+Library Associates provide individual research assistance by
+appointment and video chat or by email. The library building is open
+Monday-Friday 8-5pm, but access to the library's online resources is
+available 24/7. You can visit the library's website at
+https://www.hendrix.edu/baileylibrary/ for more information, to book
+an appointment, and to access the library's Discovery search, Class
+Guides, and databases.
+
 ## <a name="accommodations">Learning Accommodations</a>
 
 It is the policy of Hendrix College to accommodate students with
