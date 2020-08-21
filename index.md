@@ -95,10 +95,10 @@ also welcome and encouraged to make use of [rolling
 submission](#rolling) to get feedback from us as well.
 
 
-| Assignment                                                 | Points | Due    |
-|------------------------------------------------------------|:------:|--------|
-| [Writing prompt 1]({{site.baseurl}}/writing/writing1.html) | 100    | Oct 5  |
-| [Writing prompt 2]({{site.baseurl}}/writing/writing2.html) | 100    | Nov 23 |
+| Assignment                                                 | Points | Due                    |
+|------------------------------------------------------------|:------:|------------------------|
+| [Writing prompt 1]({{site.baseurl}}/writing/writing1.html) | 100    | Sep 23 (draft) / Oct 5 |
+| [Writing prompt 2]({{site.baseurl}}/writing/writing2.html) | 100    | Nov 6 (draft) / Nov 23 |
 
 ## <a name="projects">Projects</a>
 
