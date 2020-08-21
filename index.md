@@ -176,13 +176,20 @@ Guides, and databases.
 
 ## <a name="accommodations">Learning Accommodations</a>
 
-It is the policy of Hendrix College to accommodate students with
+If you have a documented disability or some other reason that you
+cannot meet the above expectations, and/or your learning would be best
+served by a modification to the usual course policies, we would be
+happy to work with you—please get in touch (via Teams or email)! The
+course policies are just a means to an end; we don’t care about the
+policies per se but we do care about you and your learning.
+
+*It is the policy of Hendrix College to accommodate students with
 disabilities, pursuant to federal and state law.  Any student who
 needs accommodation in relation to a recognized disability should
 inform the instructor at the beginning of the course.  Students should
 also contact Julie Brown in the Office of Academic Success (505.2954;
 [brownj@hendrix.edu](mailto:brownj@hendrix.edu)) to begin the
-accommodation process.
+accommodation process.*
 
 ## <a name="health">Physical and Mental Health</a>
 
