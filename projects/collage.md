@@ -1,18 +1,20 @@
 ---
 layout: work
 type: Project
-worktitle: Cut Paper Collage
+worktitle: Abstracted Collage
 due: Monday, September 21, 2020
 ---
 
-Description
------------
+Coming soon!
 
-Guidelines
-----------
+<!-- Description -->
+<!-- ----------- -->
 
-Reflection
-----------
+<!-- Guidelines -->
+<!-- ---------- -->
 
-What to turn in
----------------
+<!-- Reflection -->
+<!-- ---------- -->
+
+<!-- What to turn in -->
+<!-- --------------- -->

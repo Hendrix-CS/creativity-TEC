@@ -1,18 +1,20 @@
 ---
 layout: work
 type: Project
-worktitle: ???
-due: ???
+worktitle: Artistic Intervention
+due: December 8
 ---
 
-Description
------------
+Coming soon!
 
-Guidelines
-----------
+<!-- Description -->
+<!-- ----------- -->
 
-Reflection
-----------
+<!-- Guidelines -->
+<!-- ---------- -->
 
-What to turn in
----------------
+<!-- Reflection -->
+<!-- ---------- -->
+
+<!-- What to turn in -->
+<!-- --------------- -->
