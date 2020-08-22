@@ -102,10 +102,10 @@ also welcome and encouraged to make use of [rolling
 submission](#rolling) to get feedback from us as well.
 
 
-| Assignment                                                 | Points | Due    |
-|------------------------------------------------------------|:------:|--------|
-| [Writing prompt 1]({{site.baseurl}}/writing/writing1.html) | 100    | Oct 5  |
-| [Writing prompt 2]({{site.baseurl}}/writing/writing2.html) | 100    | Nov 23 |
+| Assignment                                                 | Points | Due                    |
+|------------------------------------------------------------|:------:|------------------------|
+| [Writing prompt 1]({{site.baseurl}}/writing/writing1.html) | 100    | Sep 23 (draft) / Oct 5 |
+| [Writing prompt 2]({{site.baseurl}}/writing/writing2.html) | 100    | Nov 6 (draft) / Nov 23 |
 
 ## <a name="projects">Projects</a>
 
@@ -165,15 +165,38 @@ option that best suits you! Please contact
 [pruneda@hendrix.edu](mailto:pruneda@hendrix.edu) for more
 information.
 
+## <a name="library">Library </a>
+
+Bailey Library's mission is to collaborate and empower all members of
+our community so that they become their best selves, cherish the scope
+of human knowledge, and positively contribute to the world. Whether
+face-to-face or remote, librarians are happy to help locate quality
+resources supporting research and classroom work and to assist with
+the critical evaluation of academic information. Librarians and
+Library Associates provide individual research assistance by
+appointment and video chat or by email. The library building is open
+Monday-Friday 8-5pm, but access to the library's online resources is
+available 24/7. You can visit the library's website at
+https://www.hendrix.edu/baileylibrary/ for more information, to book
+an appointment, and to access the library's Discovery search, Class
+Guides, and databases.
+
 ## <a name="accommodations">Learning Accommodations</a>
 
-It is the policy of Hendrix College to accommodate students with
+If you have a documented disability or some other reason that you
+cannot meet the above expectations, and/or your learning would be best
+served by a modification to the usual course policies, we would be
+happy to work with you—please get in touch (via Teams or email)! The
+course policies are just a means to an end; we don’t care about the
+policies per se but we do care about you and your learning.
+
+*It is the policy of Hendrix College to accommodate students with
 disabilities, pursuant to federal and state law.  Any student who
 needs accommodation in relation to a recognized disability should
 inform the instructor at the beginning of the course.  Students should
 also contact Julie Brown in the Office of Academic Success (505.2954;
 [brownj@hendrix.edu](mailto:brownj@hendrix.edu)) to begin the
-accommodation process.
+accommodation process.*
 
 ## <a name="health">Physical and Mental Health</a>
 

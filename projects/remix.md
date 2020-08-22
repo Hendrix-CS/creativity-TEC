@@ -1,18 +1,20 @@
 ---
 layout: work
 type: Project
-worktitle: ???
-due: ???
+worktitle: Context Free Art Remix
+due: December 8
 ---
 
-Description
------------
+Coming soon!
 
-Guidelines
-----------
+<!-- Description -->
+<!-- ----------- -->
 
-Reflection
-----------
+<!-- Guidelines -->
+<!-- ---------- -->
 
-What to turn in
----------------
+<!-- Reflection -->
+<!-- ---------- -->
+
+<!-- What to turn in -->
+<!-- --------------- -->

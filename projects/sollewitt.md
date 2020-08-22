@@ -1,18 +1,20 @@
 ---
 layout: work
 type: Project
-worktitle: ???
-due: ???
+worktitle: Digital vs. Analog after Sol LeWitt
+due: November 9
 ---
 
-Description
------------
+Coming soon!
 
-Guidelines
-----------
+<!-- Description -->
+<!-- ----------- -->
 
-Reflection
-----------
+<!-- Guidelines -->
+<!-- ---------- -->
 
-What to turn in
----------------
+<!-- Reflection -->
+<!-- ---------- -->
+
+<!-- What to turn in -->
+<!-- --------------- -->
