@@ -5,6 +5,13 @@
 layout: course-TEC
 ---
 
+<br/>
+<div style="text-align: center;"><span style="font-size: x-large;
+font-style: italic;">Once upon a time I went up a tree very quickly to
+hippo.  I decided that the hippo was to thick and fat to fit in its
+convertible.</span></div>
+<br/>
+
 # <a name="description">Overview</a>
 
 {{ site.description }}
