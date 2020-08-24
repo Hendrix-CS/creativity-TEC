@@ -5,12 +5,24 @@
 layout: course-TEC
 ---
 
+# <a name="gallery">Gallery</a>
+
 <br/>
 <div style="text-align: center;"><span style="font-size: x-large;
 font-style: italic;">Once upon a time I went up a tree very quickly to
 hippo.  I decided that the hippo was to thick and fat to fit in its
 convertible.</span></div>
 <br/>
+
+<img src="gallery/sticky-poetry/Edinburgh.png" width="100%" />
+<img src="gallery/sticky-poetry/Honolulu.png" width="100%" />
+<img src="gallery/sticky-poetry/Johannesburg.png" width="100%" />
+<img src="gallery/sticky-poetry/London.png" width="100%" />
+<img src="gallery/sticky-poetry/New-Delhi.png" width="100%" />
+<img src="gallery/sticky-poetry/Paris-1.png" width="100%" />
+<img src="gallery/sticky-poetry/Paris-2.png" width="100%" />
+<img src="gallery/sticky-poetry/Seoul.png" width="100%" />
+<img src="gallery/sticky-poetry/Sydney.png" width="100%" />
 
 # <a name="description">Overview</a>
 

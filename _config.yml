@@ -31,6 +31,8 @@ title: "The Engaged Citizen: The Art and Science of Creativity"
 semester: Fall 2020
 
 navigation:
+  - page: Gallery
+    url: '#gallery'
   - title: Overview
     subfolderitems:
       - page: Description
@@ -501,7 +503,8 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+    - 20L/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
