@@ -2,55 +2,109 @@
 layout: work
 type: Project
 worktitle: Generative Drawing
-due: Monday, September 21, 2020
+due: Monday, September 28, 2020
+duetime: 5:00 pm
 ---
 
-Coming soon!
+## Description
 
-<!-- ## Description -->
+You will create generative visual art using three different digital
+tools: [recursivedrawing.com](http://recursivedrawing.com), [EscherSketch](http://eschersket.ch/), and [Context Free Art](https://www.contextfreeart.org/).
 
-<!-- Using [recursivedrawing.com](http://recursivedrawing.com) and -->
-<!-- [EscherSketch](https://eschersket.ch/), you will explore creating some -->
-<!-- generative artwork. -->
+<div style="text-align: center;">
+<img src="../play/happy-accidents/wreath-small.png" />
+</div>
 
-<!-- XXX include image -->
+Project due **{{page.due}} at {{page.duetime}}**.
 
-<!-- Project due **{{page.due}} @5pm** (the first day of Unit 2). -->
+Guidelines
+----------
 
-<!-- Guidelines -->
-<!-- ---------- -->
+- Explore the three digital tools.  Have fun, play, don't be afraid to
+  try things or to make mistakes!
 
-<!-- - Explore the tools XXX -->
-<!-- - Explain how to take screenshots -->
-<!-- - Create at least three different images XXX -->
+    - Dr. Yorgey will demonstrate
+      [recursivedrawing.com](http://recursivedrawing.com) in class.
+      Remember that to save your images you will need to [take a
+      screenshot](https://www.pcmag.com/news/how-to-take-a-screenshot-on-any-device).
 
-<!-- Your submitted images should be XXX -->
+    - Dr. Yorgey will also introduce [Context Free
+      Art](https://www.contextfreeart.org/) in class.
 
+    - For [EscherSketch](http://eschersket.ch/), you are on your own,
+      and this is intentional!  You will probably be confused and
+      overwhelmed by the interface, and you probably won't figure out
+      what all the options do.  That's OK!  Take a deep breath, play,
+      experiment, and be prepared for some surprising results.
 
-<!-- Reflection -->
-<!-- ---------- -->
+        - Note that to save images from EscherSketch, use the controls
+          in the very bottom left corner, which look like this:
 
-<!-- You should write 1-2 paragraphs reflecting on your process of -->
-<!-- creativity and discovery.  For example, you might consider questions -->
-<!-- such as: -->
+          ![](../assets/images/EscherSketch-save.png)
 
-<!--   - To what extent did you feel that you were in control of the -->
-<!--     process?  Did it make you feel excited? Anxious? Curious? -->
-<!--     Contemplative? etc.? -->
-<!--   - -->
+          Click the "Picture" button to save the current image as a
+          `.png` file.
 
-<!-- Your reflection need not answer *all* the above questions; these are -->
-<!-- just example prompts to get you thinking.  You will not be graded on -->
-<!-- things like grammar, punctuation, etc. (although writing well is -->
-<!-- always a goal worth striving for); I simply want to see evidence of -->
-<!-- thoughtful reflection. -->
+- You should create at least *three different images* using *each
+  tool*, for a total of nine images.  (You can submit more than nine
+  images if you wish.)
 
-<!-- What to turn in -->
-<!-- --------------- -->
+- The images should be substantially different, that is, you should
+  not submit images which are just slight variations of each other.
 
-<!-- You should turn in -->
+- Your images must exhibit some **complexity** and/or
+  **generativity**.  A good rule of thumb is that your images should
+  be such that they would be very difficult or tedious to produce by
+  hand.  For example, you should not use <tt>recursivedrawing.com</tt>
+  to make an image consisting of just a square next to a circle,
+  because you could easily have drawn that by hand.
 
-<!-- - nnn files -->
-<!-- - your reflection -->
+- Note, however, that your images do not necessarily have to be
+  __complicated__; simple images can still be generative.  As one example,
+  an image consisting of 300 parallel horizontal lines is very simple,
+  but would be tedious to draw by hand.
 
-<!-- XXX instructions on how to turn in.  Upload to Teams? -->
+Reflection
+----------
+
+After creating your images, you should write 1-2 paragraphs
+reflecting on your process of creativity and discovery.  For example,
+you might consider questions such as:
+
+  - To what extent did you feel that you were in control of the
+    process?  Did it make you feel excited? Anxious? Curious?
+    Contemplative? etc.?
+  - Which part of the process surprised you?  What went better than
+    you expected, or worse than you expected?
+  - Which image is your favorite, and why?
+
+Your reflection does **not** need to answer all the above questions,
+and you could also answer other, related questions instead.  These
+are just example prompts to get you thinking.  You will not be graded
+on things like grammar, punctuation, etc. (although writing well is
+always a goal worth striving for); I simply want to see evidence of
+thoughtful reflection.
+
+Submission
+----------
+
+You should turn in:
+
+- Your **images** (at least three for each tool).
+- For the images generated using Context Free Art, you should also
+  submit the Context Free Art **programs** you wrote to generate them.
+- Your **reflection, as a PDF file**.
+    - Most text editors (Word, Pages,
+      etc.) support an option to "Export to PDF", usually in the File
+      menu.  If you need help with this step, just ask!
+
+You can submit your project via Teams.  Go to the [TEC: Creativity (BIG
+GROUP)
+team](https://teams.microsoft.com/l/team/19%3a87c80729304f47b996b776e645471452%40thread.tacv2/conversations?groupId=f2f35426-5df5-4992-a3d2-9149414caff1&tenantId=0cf6c18c-d0d2-4a3f-83d0-663d620a63d3),
+click on the "General" channel, then go to the "Assignments" tab at
+the top.  Choose this project from the list of assignments and upload
+your submission.
+
+Remember to take advantage of [rolling submissions](../#rolling): turn
+in your project any time before the deadline to get feedback, revise,
+and resubmit!
