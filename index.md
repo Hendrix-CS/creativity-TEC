@@ -14,15 +14,23 @@ hippo.  I decided that the hippo was to thick and fat to fit in its
 convertible.</span></div>
 <br/>
 
-<img src="gallery/sticky-poetry/Edinburgh.png" width="100%" />
-<img src="gallery/sticky-poetry/Honolulu.png" width="100%" />
-<img src="gallery/sticky-poetry/Johannesburg.png" width="100%" />
-<img src="gallery/sticky-poetry/London.png" width="100%" />
-<img src="gallery/sticky-poetry/New-Delhi.png" width="100%" />
-<img src="gallery/sticky-poetry/Paris-1.png" width="100%" />
-<img src="gallery/sticky-poetry/Paris-2.png" width="100%" />
-<img src="gallery/sticky-poetry/Seoul.png" width="100%" />
-<img src="gallery/sticky-poetry/Sydney.png" width="100%" />
+<div style="text-align: center;">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/189917808@N05" title=""><img src="https://live.staticflickr.com/65535/50279848437_f7d72b912a_z.jpg" width="640" height="480" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<!-- <div style="text-align: center;"> -->
+<!-- <iframe src="https://albumizr.com/a/-Spb" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe> -->
+<!-- </div> -->
+
+<!-- <img src="gallery/sticky-poetry/Edinburgh.png" width="100%" /> -->
+<!-- <img src="gallery/sticky-poetry/Honolulu.png" width="100%" /> -->
+<!-- <img src="gallery/sticky-poetry/Johannesburg.png" width="100%" /> -->
+<!-- <img src="gallery/sticky-poetry/London.png" width="100%" /> -->
+<!-- <img src="gallery/sticky-poetry/New-Delhi.png" width="100%" /> -->
+<!-- <img src="gallery/sticky-poetry/Paris-1.png" width="100%" /> -->
+<!-- <img src="gallery/sticky-poetry/Paris-2.png" width="100%" /> -->
+<!-- <img src="gallery/sticky-poetry/Seoul.png" width="100%" /> -->
+<!-- <img src="gallery/sticky-poetry/Sydney.png" width="100%" /> -->
 
 # <a name="description">Overview</a>
 
