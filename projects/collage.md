@@ -7,10 +7,10 @@ due: Monday, September 28, 2020
 
 Coming soon!
 
-<!--Our first project is an exploration of the creative process as explained by the artist William Kentridge in his Tedx Talk “The Creative Process of a Master Artist.” In this talk, Kentridge uses a narrative “The Invention of Africa” as an entry way into a deep discussion of the artist’s creative process in the studio, the colonialism of Africa, the need for multiple voices, and the construction of identity and meaning. Referring to the Ghanaian proverb “If the good doctor can’t cure you, find a less good doctor,” Kentridge says that in the studio, the artist must “find the less good idea,” or make a space for secondary processes to emerge from the primary one. -->
-<!-- ----------- -->
+Our first project is an exploration of the creative process as explained by the artist William Kentridge in his Tedx Talk “The Creative Process of a Master Artist.” In this talk, Kentridge uses a narrative “The Invention of Africa” as an entry way into a deep discussion of the artist’s creative process in the studio, the colonialism of Africa, the need for multiple voices, and the construction of identity and meaning. Referring to the Ghanaian proverb “If the good doctor can’t cure you, find a less good doctor,” Kentridge says that in the studio, the artist must “find the less good idea,” or make a space for secondary processes to emerge from the primary one.
 
-<!--Creative Method: You will construct 6 abstract collages-which means: don’t try to make anything recognizeable; only interesting shapes, colors and textures. You’ll begin working with no prior plan- just experiment with putting different fragments and materials together on the paper and see what happens. When you like what you have, then glue or tape it down. Your only objective is to build an interesting design by piecing together several collage fragments. 
+
+Creative Method: You will construct 6 abstract collages-which means: don’t try to make anything recognizeable; only interesting shapes, colors and textures. You’ll begin working with no prior plan- just experiment with putting different fragments and materials together on the paper and see what happens. When you like what you have, then glue or tape it down. Your only objective is to build an interesting design by piecing together several collage fragments. 
 
 Step 1: Collection- Start to collect images you like for their visual qualities (color, texture, shape, perspective, etc.) and keep them together in a folder- paper and/or digital. Collect a minimum of 30 images.
 
@@ -32,8 +32,7 @@ Grading Criteria:
 6 completed collages submitted on or before the deadline: 50 points
 Level of Experimentation (each composition is different): 50 points
 
-
-<!-- What to turn in:  Photograph each collage individually and attach your 6 image files in an email to Prof. Gill at gill@hendrix.edu-->
+What to turn in:  Photograph each collage individually and attach your 6 image files in an email to Prof. Gill at gill@hendrix.edu
 
 
 
