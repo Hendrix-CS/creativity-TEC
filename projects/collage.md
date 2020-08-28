@@ -30,6 +30,7 @@ Learning Goals:
 Grading Criteria:
 
 6 completed collages submitted on or before the deadline: 50 points
+
 Level of Experimentation (each composition is different): 50 points
 
 What to turn in:  Photograph each collage individually and attach your 6 image files in an email to Prof. Gill at gill@hendrix.edu
