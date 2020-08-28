@@ -5,7 +5,7 @@ worktitle: Abstracted Collage
 due: Monday, September 28, 2020
 ---
 
-Coming soon!
+
 
 Our first project is an exploration of the creative process as explained by the artist William Kentridge in his Tedx Talk “The Creative Process of a Master Artist.” In this talk, Kentridge uses a narrative “The Invention of Africa” as an entry way into a deep discussion of the artist’s creative process in the studio, the colonialism of Africa, the need for multiple voices, and the construction of identity and meaning. Referring to the Ghanaian proverb “If the good doctor can’t cure you, find a less good doctor,” Kentridge says that in the studio, the artist must “find the less good idea,” or make a space for secondary processes to emerge from the primary one.
 
