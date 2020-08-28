@@ -18,7 +18,7 @@ Step 2: Deconstruction- print out or xerox copy your images so they are on paper
 
 Step 3: Re-Combination- (a.k.a “Collage”)- re-combine your small paper pieces on a clean sheet of paper either 5.5” x 8.5” or 8.5” x 11” as if you are putting a puzzle back together, except it’s a puzzle that you are creating. Look to find points or lines of connection between image pieces- place them together with intention; not randomly. Notice how one image fragment looks different depending on what you put next to it. Glue or tape the image pieces down to make your composition. Make a total of 6 collages.
 
-Step 4: Photograph* your finished collages and email the image files to gill@hendrix.edu. Take the photo close up, one photo per collage. *Watch this video for tips on (How to photograph your collages with a smartphone)[https://www.youtube.com/watch?v=FKgWIzvm3Hs&t=96s]
+Step 4: Photograph* your finished collages and email the image files to gill@hendrix.edu. Take the photo close up, one photo per collage. *Watch this video for tips on [How to photograph your collages with a smartphone](https://www.youtube.com/watch?v=FKgWIzvm3Hs&t=96s)
 
 Learning Goals:
 •	Gain hands-on practice with an experimental creative process that allows for secondary processes to occur.
