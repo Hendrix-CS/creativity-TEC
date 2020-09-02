@@ -28,6 +28,8 @@ Some hints:
   adjustments](https://github.com/MtnViewJohn/context-free/wiki/Shape-Adjustments).
   Remember to set the saturation and brightness to something other
   than zero. (*e.g.* `[... sat 1 b 1 ...]`)
+* To repeat something a certain number of times and make changes to it
+  along the way, use a `loop`.
 * Dr. Yorgey will be visiting your group periodically to see how
   you're coming along.  If you get stuck or run into questions, write
   them down and ask the next time Dr. Yorgey visits.  In the meantime,
