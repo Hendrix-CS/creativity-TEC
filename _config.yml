@@ -167,7 +167,7 @@ calendar:
   - date: W 9/2
 
     instr1: yorgey
-    topic1: "Context Free Art"
+    topic1: "[Context Free Art practice lab](labs/hearts.html)"
     notes1: "Install [Context Free Art](https://www.contextfreeart.org/)"
 
     instr2: gill
