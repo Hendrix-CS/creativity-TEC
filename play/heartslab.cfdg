@@ -1,0 +1,19 @@
+startshape rings
+
+shape heartortho {
+  SQUARE []
+  CIRCLE [y 0.5]
+  CIRCLE [x 0.5]
+}
+
+shape heart {
+  heartortho [r 45 sat 1 b 1 hue 1 0]
+}
+
+shape ring {
+  loop 12 [r 30] { heart [ y 5 ] }
+}
+
+shape rings {
+  loop 4 [s 0.7] { ring [] }
+}

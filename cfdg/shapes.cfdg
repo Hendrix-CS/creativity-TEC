@@ -1,0 +1,31 @@
+startshape bigschool
+
+shape fish {
+  TRIANGLE [x -1 r -90]
+  CIRCLE [s 2 0.5 b 1 sat 1]
+}
+
+shape school {
+  fish [x -3]
+  fish []
+  fish [x 3]
+}
+
+shape schools {
+  school [s 0.8 y 2]
+  school [x -1 r 10]
+  school [s 1.1 y -3 x 2]
+}
+
+shape longschool {
+  loop 10 [x 3 r 5 s 1.1 h 10] {
+    fish []
+  }
+}
+
+shape bigschool {
+  FILL [sat 1 b 1 hue 1 60]
+  loop 20 [r 5] {
+    longschool [hue 1 270]
+  }
+}

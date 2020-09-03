@@ -1,0 +1,38 @@
+startshape fuzz
+
+shape stroke
+rule 100 {
+  SQUARE [s 1 0.1]
+  stroke [[s 0.95 x 1 b 0.1]]
+}
+rule 1 {}
+
+shape strokeLR
+rule { strokeL [sat 1 b 1 hue 1] }
+rule { strokeR [sat 1 b 1 hue 1] }
+
+shape strokeL
+rule 10 {
+  SQUARE [s 1 0.1]
+  strokeL [[x 0.5 s 0.95 r 5 x 0.5 h 3]]
+}
+rule 1 {
+  SQUARE [s 1 0.1]
+  strokeR [[x 0.5 s 0.95 r 5 x 0.5 h 3]]
+}
+rule 0.1 {}
+
+shape strokeR
+rule 10 {
+  SQUARE [s 1 0.1]
+  strokeR [[x 0.5 s 0.95 r -5 x 0.5 h 3]]
+}
+rule 1 {
+  SQUARE [s 1 0.1]
+  strokeL [[x 0.5 s 0.95 r -5 x 0.5 h 3]]
+}
+rule 0.1 {}
+
+shape fuzz {
+  loop 360 [r 1 h rand(-10,10)] { strokeLR [] }
+}

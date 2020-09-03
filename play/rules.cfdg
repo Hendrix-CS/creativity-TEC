@@ -1,0 +1,50 @@
+startshape rings
+
+shape heartortho {
+  SQUARE []
+  CIRCLE [y 0.5]
+  CIRCLE [x 0.5]
+}
+
+shape heart {
+  heartortho [r 45]
+}
+
+shape star {
+  CIRCLE [s 0.5]
+  loop 7 [r (360/7)] {
+    TRIANGLE [y 0.5 s 0.5 1]
+  }
+}
+
+shape demo {
+  heart []
+  star [x 2]
+}
+
+shape heartorstar
+rule 5 {
+  heart []
+}
+rule 2 {
+  star []
+}
+
+shape line {
+  loop 20 [x 2] { heartorstar [] }
+}
+
+shape ring
+rule {
+  loop 20 [r (360/20)] { heartorstar [y 7] }
+}
+rule {
+  loop 15 [r (360/15)] { heartorstar [y 7] }
+}
+rule {
+  loop 10 [r (360/10)] { heartorstar [y 7] }
+}
+
+shape rings {
+  loop 10 [x 10] { ring [] }
+}
