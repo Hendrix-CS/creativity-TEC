@@ -1,0 +1,44 @@
+shape heartortho {
+  SQUARE []
+  CIRCLE [y 0.5]
+  CIRCLE [x 0.5]
+}
+
+shape heartshape {
+  heartortho [r 45]
+}
+
+shape heart {
+  heartshape [sat 1 b 1 hue 1 0 s 0.65]
+}
+
+shape tree
+rule 1 {
+  CIRCLE []
+}
+rule 100 {
+  CIRCLE []
+  htree [x 1.2 s 0.95 r rand(-10, 10)]
+}
+rule 15 {
+  CIRCLE []
+  htree [x 1.2 s 0.95 r rand(50,70)]
+  htree [x 1.2 s 0.95 r rand(-70,-50)]
+}
+
+shape htree
+rule 1 {
+  heart []
+}
+rule 100 {
+  heart []
+  tree [x 1.2 s 0.95 r rand(-10, 10)]
+}
+rule 15 {
+  heart []
+  tree [x 1.2 s 0.95 r rand(50,70)]
+  tree [x 1.2 s 0.95 r rand(-70,-50)]
+}
+
+
+startshape tree

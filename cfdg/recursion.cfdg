@@ -1,0 +1,46 @@
+shape strokeL
+rule 100 {
+  SQUARE [s 1 0.1]
+  strokeL [[x 0.5 s 0.95 r 5 b 0.02 x 0.5 hue 0.1 100]]
+}
+rule 10 {
+  SQUARE [s 1 0.1]
+  strokeR [[x 0.5 s 0.95 r 5 b 0.02 x 0.5]]
+}
+rule 1 {}
+
+shape strokeR
+rule 100 {
+  SQUARE [s 1 0.1]
+  strokeR [[x 0.5 s 0.95 r -5 b 0.02 x 0.5 hue 0.1 240]]
+}
+rule 10 {
+  SQUARE [s 1 0.1]
+  strokeL [[x 0.5 s 0.95 r -5 b 0.02 x 0.5]]
+}
+rule 1 {}
+
+shape stroke
+rule { strokeL [] }
+rule { strokeR [] }
+
+shape fuzzball {
+  loop 360 [r 1] {
+    stroke [sat 1 b 1 hue 1 60]
+  }
+}
+
+shape vortex {
+  loop 10000 [r 10 s 0.95] {
+    fuzzball [x 5]
+  }
+}
+
+shape vortex2 {
+  loop 10000 [r 50 s 0.95] {
+    fuzzball [x 30]
+  }
+}
+
+startshape vortex
+

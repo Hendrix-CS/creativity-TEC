@@ -1,0 +1,45 @@
+shape heartortho {
+  SQUARE []
+  CIRCLE [y 0.5]
+  CIRCLE [x 0.5]
+}
+
+shape heartshape {
+  heartortho [r 45]
+}
+
+shape heart {
+  heartshape [sat 1 b 1 hue 1 0]
+}
+
+shape starshape {
+  CIRCLE [s 0.5]
+  loop 7 [r (360/7)] {
+    TRIANGLE [y 0.5 s 0.5 1]
+  }
+}
+
+shape star {
+  starshape [sat 1 b 1 hue 1 240]
+}
+
+shape demo {
+  heart []
+  star [x 2]
+}
+
+shape heartorstar
+rule 3 {
+  heart []
+}
+rule 1 {
+  star []
+}
+
+shape line {
+  loop 50 [x 2] {
+    heartorstar []
+  }
+}
+
+startshape line
