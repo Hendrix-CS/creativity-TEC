@@ -177,7 +177,7 @@ calendar:
   - date: F 9/4
 
     instr1: yorgey
-    topic1: "Context Free Art"
+    topic1: "[Context Free Art: rules and recursion](https://web.microsoftstream.com/video/fd480bbe-d230-4e39-828c-d68efa5f6c25?list=studio)"
     notes1: ""
 
     instr2: gill
@@ -221,7 +221,7 @@ calendar:
     notes1: "Bring collage materials, paper, scissors, tape"
 
     instr2: yorgey
-    topic2: "Context Free Art"
+    topic2: "[Context Free Art practice lab](labs/hearts.html)"
     notes2: "Install [Context Free Art](https://www.contextfreeart.org/)"
 
   - date: W 9/16
@@ -231,7 +231,7 @@ calendar:
     notes1: "Bring collage materials, paper, scissors, tape"
 
     instr2: yorgey
-    topic2: "Context Free Art"
+    topic2: "Context Free Art: rules and recursion"
     notes2: ""
 
   - date: F 9/18
