@@ -109,6 +109,10 @@ Projects and writing assignments will be accepted and graded on a
 * Your grade for the assignment will simply be the grade you earn on
   your **last** submission before the deadline.
 
+Note that when making use of rolling submissions you don't have to
+turn in a completed assignment---if you have completed only part of an
+assignment and want some feedback you are welcome to turn it in as-is!
+
 ## <a name="writing">Writing Assignments</a>
 
 You will complete two writing assignments in the course.  You will be
