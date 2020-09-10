@@ -90,20 +90,18 @@ Submission
 
 You should turn in:
 
-- Your **images** (at least three for each tool).
+- Your **images**: `.png` or `.jpg` files (or something similar), at least three
+  for each tool.
 - For the images generated using Context Free Art, you should also
-  submit the Context Free Art **programs** you wrote to generate them.
+  submit the Context Free Art **programs** (`.cfdg` files) you wrote
+  to generate them.
 - Your **reflection, as a PDF file**.
     - Most text editors (Word, Pages,
       etc.) support an option to "Export to PDF", usually in the File
       menu.  If you need help with this step, just ask!
 
-You can submit your project via Teams.  Go to the [TEC: Creativity (BIG
-GROUP)
-team](https://teams.microsoft.com/l/team/19%3a87c80729304f47b996b776e645471452%40thread.tacv2/conversations?groupId=f2f35426-5df5-4992-a3d2-9149414caff1&tenantId=0cf6c18c-d0d2-4a3f-83d0-663d620a63d3),
-click on the "General" channel, then go to the "Assignments" tab at
-the top.  Choose this project from the list of assignments and upload
-your submission.
+You can submit your project [via this DropBox
+link](https://www.dropbox.com/request/kbemWssiaMbLG0OgMygG).
 
 Remember to take advantage of [rolling submissions](../#rolling): turn
 in your project any time before the deadline to get feedback, revise,
