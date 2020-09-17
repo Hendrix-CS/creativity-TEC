@@ -1,0 +1,42 @@
+
+shape line {
+  SQUARE [s 1 0.1]
+}
+
+shape root
+rule 100 {
+  line []
+  root [[x 0.5 r rand(-30, 30) x 0.5]]
+}
+rule 5 {
+  line []
+  root [[x 0.5 r rand(-70, 70) s 0.8 x 0.5]]
+  root [[x 0.5 r rand(-70, 70) s 0.8 x 0.5]]
+}
+rule 1 {}
+
+shape rootb {
+  root [sat 0.58 b 0.7 h 1 27]
+}
+
+shape zap
+rule 100 {
+  line []
+  zap [x 1]
+}
+rule 5 {
+  line []
+  switch (randint(2)) {
+    case 0:
+      zap [[x 0.5 r rand(-25, -20) x 0.5]]
+    case 1:
+      zap [[x 0.5 r rand(20, 25) x 0.5]]
+  }
+}
+rule 1 {
+  line []
+  zap [[x 0.5 r rand(-20, 20) s 0.8 x 0.5]]
+  zap [[x 0.5 r rand(-20, 20) s 0.8 x 0.5]]
+}
+
+startshape zap
