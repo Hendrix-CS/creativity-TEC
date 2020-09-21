@@ -16,21 +16,17 @@ due: Monday, October 05, 2020
 Prompt: Choose one of the creative projects you have done in this class and write reflectively about your own creative process. Reference ideas from one or more of the texts we have discussed thus far in this course, and how they might have informed your thinking and/or process. 
 
 
-Projects:	
+>Projects:	
 
 Generative Drawing	
-
 Abstracted Collage	
 
 
-Texts:
+>Texts:
 
 Carol Dweck: Fixed vs. Growth Mindset
-
 Syed: How Creativity is Helped by Failure
-
 Gilbert: Your Elusive Creative Genius
-
 Kentridge: The Creative Process of a Master Artist
 
 
@@ -75,11 +71,11 @@ Timeline:
 
 Format and paper mechanics: 
 
-•	Your paper should be 3 double-spaced pages and typed in 12 point Times New Roman font. 
+* Your paper should be 3 double-spaced pages and typed in 12 point Times New Roman font. 
 
 * Include your name, assignment title, and the date on the first page. No cover/title page. 
 
-•	When you reference texts (articles, websites, books, etc.,) in your essay you must include in-text parenthetical citations and a Works Cited Page at the end of the paper. Use MLA style. Proper citation is critical to avoid plagiarism.  You are responsible for knowing what plagiarism is and for avoiding it.  The Online Writing Lab at Purdue is an excellent resource for proper citation methods– you can go to this website to read more about the various citation styles: [pudue owl](https://owl.english.purdue.edu/owl/resource/589/02/)  
+* When you reference texts (articles, websites, books, etc.,) in your essay you must include in-text parenthetical citations and a Works Cited Page at the end of the paper. Use MLA style. Proper citation is critical to avoid plagiarism.  You are responsible for knowing what plagiarism is and for avoiding it.  The Online Writing Lab at Purdue is an excellent resource for proper citation methods– you can go to this website to read more about the various citation styles: [pudue owl](https://owl.english.purdue.edu/owl/resource/589/02/)  
 
 
 
