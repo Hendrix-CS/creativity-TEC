@@ -25,7 +25,9 @@ Kentridge: The Creative Process of a Master Artist
 
 Steps:
 •	Describe the project and the particular creative process that you used to achieve your final results: what steps did you take from start to finish?
+
 •	Discuss the ideas from your chosen course texts and reflect on how they related to your own experience (or not). When you reference the texts you must cite them properly using parenthetical in-text citation, and a Works Cited page at the end of the document according to MLA style.
+
 •	Reflect thoughtfully on your experience, what you have learned, and how you might be thinking slightly differently now about the subject of creativity.
 
 Questions to consider: **(These are suggestions ONLY to spark your thought process for this paper. Do Not give us simply a list of answers to these questions. Keep in mind, the general structure of reflective writing is to discuss (a) What? (b) So what? (c) Now what? 
@@ -37,8 +39,11 @@ Questions to consider: **(These are suggestions ONLY to spark your thought proce
 6.	Did completing this project cause you to think differently about creativity?
 
 Learning Goals: 
+
 •	To think reflectively about creativity from the computer science lens, and from the fine art lens. 
+
 •	To synthesize the content presented in the course in relationship to your own experience executing a creative project.
+
 •	To accomplish an organized, well-written, 3-page reflective essay with proper citations.
 
 Timeline: 
@@ -48,6 +53,8 @@ Timeline:
 *Most text editors (Word, Pages, etc.) support an option to “Export to PDF”, usually in the File menu. If you need help with this step, just ask!
 
 Format and paper mechanics: 
+
 •	Your paper should be 3 double-spaced pages and typed in 12 point Times New Roman font. Include your name, assignment title, and the date. No cover/title page. 
+
 •	When you reference texts (articles, websites, books, etc.,) in your essay you must include in-text parenthetical citations and a Works Cited Page at the end of the paper. Use MLA style. Proper citation is critical to avoid plagiarism.  You are responsible for knowing what plagiarism is and for avoiding it.  The Online Writing Lab at Purdue is an excellent resource for proper citation methods– you can go to this website to read more about the various citation styles: (https://owl.english.purdue.edu/owl/resource/589/02/)  
 
