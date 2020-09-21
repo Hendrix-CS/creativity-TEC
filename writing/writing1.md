@@ -8,14 +8,16 @@ Prompt: Choose one of the creative projects you have done in this class and writ
 Projects:	
 
 Generative Drawing	
-
 Abstracted Collage	
 
 Texts:
 
 Carol Dweck: Fixed vs. Growth Mindset
+
 Syed: How Creativity is Helped by Failure
+
 Gilbert: Your Elusive Creative Genius
+
 Kentridge: The Creative Process of a Master Artist
 
 
