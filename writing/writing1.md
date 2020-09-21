@@ -8,9 +8,9 @@ due: Monday, October 05, 2020
 
 
   
-Draft Due by 12:10, Wednesday Sept. 23
+>Draft Due by 12:10, Wednesday Sept. 23
 
-Final Draft Due in Teams, Monday Oct. 5
+>Final Draft Due in Teams, Monday Oct. 5
 
 
 Prompt: Choose one of the creative projects you have done in this class and write reflectively about your own creative process. Reference ideas from one or more of the texts we have discussed thus far in this course, and how they might have informed your thinking and/or process. 
