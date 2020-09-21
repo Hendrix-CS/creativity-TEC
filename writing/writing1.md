@@ -24,6 +24,7 @@ Kentridge: The Creative Process of a Master Artist
 
 
 Steps:
+
 •	Describe the project and the particular creative process that you used to achieve your final results: what steps did you take from start to finish?
 
 •	Discuss the ideas from your chosen course texts and reflect on how they related to your own experience (or not). When you reference the texts you must cite them properly using parenthetical in-text citation, and a Works Cited page at the end of the document according to MLA style.
