@@ -16,17 +16,21 @@ due: Monday, October 05, 2020
 Prompt: Choose one of the creative projects you have done in this class and write reflectively about your own creative process. Reference ideas from one or more of the texts we have discussed thus far in this course, and how they might have informed your thinking and/or process. 
 
 
->Projects:	
+Projects:	
 
 Generative Drawing	
+
 Abstracted Collage	
 
 
->Texts:
+Texts:
 
 Carol Dweck: Fixed vs. Growth Mindset
+
 Syed: How Creativity is Helped by Failure
+
 Gilbert: Your Elusive Creative Genius
+
 Kentridge: The Creative Process of a Master Artist
 
 
