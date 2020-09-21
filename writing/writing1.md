@@ -48,7 +48,9 @@ Learning Goals:
 •	To accomplish an organized, well-written, 3-page reflective essay with proper citations.
 
 Timeline: 
+
 9/23: First draft due by the start of class (12:10pm). The class will workshop the drafts on this day.
+
 10/5: Final draft due as a PDF file* copied to the “Homework” tab in your Class Notebook in our “TEC: Creativity (BIG GROUP) Team. 
 
 *Most text editors (Word, Pages, etc.) support an option to “Export to PDF”, usually in the File menu. If you need help with this step, just ask!
