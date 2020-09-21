@@ -1,3 +1,12 @@
+---
+layout: work
+type: Essay
+worktitle: Writing 1
+due: Monday, October 05, 2020
+---
+
+
+
 Reflective Writing Assignment 1  
 Draft Due by 12:10, Wednesday Sept. 23
 Final Draft Due in Teams, Monday Oct. 5
