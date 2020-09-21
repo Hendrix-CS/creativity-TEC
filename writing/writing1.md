@@ -79,7 +79,7 @@ Format and paper mechanics:
 
 * Include your name, assignment title, and the date on the first page. No cover/title page. 
 
-•	When you reference texts (articles, websites, books, etc.,) in your essay you must include in-text parenthetical citations and a Works Cited Page at the end of the paper. Use MLA style. Proper citation is critical to avoid plagiarism.  You are responsible for knowing what plagiarism is and for avoiding it.  The Online Writing Lab at Purdue is an excellent resource for proper citation methods– you can go to this website to read more about the various citation styles: (https://owl.english.purdue.edu/owl/resource/589/02/)  
+•	When you reference texts (articles, websites, books, etc.,) in your essay you must include in-text parenthetical citations and a Works Cited Page at the end of the paper. Use MLA style. Proper citation is critical to avoid plagiarism.  You are responsible for knowing what plagiarism is and for avoiding it.  The Online Writing Lab at Purdue is an excellent resource for proper citation methods– you can go to this website to read more about the various citation styles: [pudue owl](https://owl.english.purdue.edu/owl/resource/589/02/)  
 
 
 
