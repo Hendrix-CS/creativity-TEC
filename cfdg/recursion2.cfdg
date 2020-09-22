@@ -1,0 +1,47 @@
+shape QL
+rule 100 {
+  CIRCLE []
+  QL [x 1 r 3 s 0.98 sat -0.05]
+}
+rule 10 {
+  CIRCLE []
+  QR [x 1 r 3 s 0.98]
+}
+rule 1 {
+  loop 5 [x 1] {
+    TRIANGLE [r -90]
+  }
+}
+
+shape QR
+rule 100 {
+  CIRCLE []
+  QR [x 1 r -3 s 0.98 sat -0.05]
+}
+rule 10 {
+  CIRCLE []
+  QL [x 1 r -3 s 0.98]
+}
+rule 1 {
+  loop 5 [x 1] {
+    TRIANGLE [r -90]
+  }
+}
+
+shape Q
+rule { QL [sat 1 b 1 hue 240] }
+rule { QR [sat 1 b 1 hue 240] }
+
+shape Qronavirus {
+  loop 15 [r (360/15)] {
+    Q [x 2]
+  }
+}
+
+shape virii {
+  loop 10 [x rand(-25,25) y rand(-25,25)] {
+    Qronavirus []
+  }
+}
+
+startshape virii

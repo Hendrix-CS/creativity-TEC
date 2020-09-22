@@ -1,0 +1,12 @@
+shape tree
+rule 50 {
+  SQUARE [s 1 0.1]
+  tree [x 1 s 0.95]
+}
+rule 10 {
+  SQUARE [s 1 0.1]
+  tree [x 1 s 0.95 r 30]
+  tree [x 1 s 0.95 r -30]
+}
+
+startshape tree

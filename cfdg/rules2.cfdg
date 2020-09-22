@@ -1,0 +1,30 @@
+shape heartortho {
+  SQUARE []
+  CIRCLE [x 0.5]
+  CIRCLE [y 0.5]
+}
+
+shape heart {
+  heartortho [r 45]
+}
+
+shape star {
+  SQUARE []
+  SQUARE [r 45]
+}
+
+shape heartorstar
+rule 5 {
+  heart []
+}
+rule 1 {
+  star []
+}
+
+shape line {
+  loop 20 [x 2] {
+    heartorstar []
+  }
+}
+
+startshape line
