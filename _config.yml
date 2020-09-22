@@ -261,8 +261,8 @@ calendar:
   - date: M 9/28
 
     instr1: yorgey
-    topic1: "Activity"
-    notes1: "TBA"
+    topic1: "Introduction to Go, part 1"
+    notes1: ""
 
     instr2: gill
     topic2: "Discussion"
@@ -271,8 +271,8 @@ calendar:
   - date: W 9/30
 
     instr1: yorgey
-    topic1: "Discussion"
-    notes1: "TBA"
+    topic1: "Introduction to Go, part 2"
+    notes1: ""
 
     instr2: gill
     topic2: "Discussion"
@@ -281,8 +281,8 @@ calendar:
   - date: F 10/2
 
     instr1: yorgey
-    topic1: "Discussion"
-    notes1: "TBA"
+    topic1: "Discussion: AlphaGo"
+    notes1: ""
 
     instr2: gill
     topic2: "Proj. 2-Digital vs. Analog after Sol Lewitt (Due M 11/9)"
@@ -291,8 +291,8 @@ calendar:
   - date: M 10/5
 
     instr1: yorgey
-    topic1: "Activity"
-    notes1: "TBA"
+    topic1: "Project 2: Digital vs. Analog After Sol Lewitt"
+    notes1: ""
 
     instr2: gill
     topic2: "Proj. 2-Digital vs. Analog After Sol Lewitt"
@@ -301,8 +301,8 @@ calendar:
   - date: W 10/7
 
     instr1: yorgey
-    topic1: "Activity"
-    notes1: "TBA"
+    topic1: "Project 2: Digital vs. Analog After Sol Lewitt"
+    notes1: ""
 
     instr2: gill
     topic2: "Proj. 2-Digital vs. Analog After Sol Lewitt"
@@ -315,8 +315,8 @@ calendar:
     notes1: "[Taylor: 'SuperCreativity'](https://www.youtube.com/watch?v=14SOoTXqRys)"
 
     instr2: yorgey
-    topic2: "Activity"
-    notes2: "TBA"
+    topic2: "Introduction to Go, part 1"
+    notes2: ""
 
   - date: M 10/12
 
@@ -325,8 +325,8 @@ calendar:
     notes1: "[Generative Art: Lewitt, Epler, Eno, Watz, Reas](https://massmoca.org/sol-lewitt/)"
 
     instr2: yorgey
-    topic2: "Discussion"
-    notes2: "TBA"
+    topic2: "Introduction to Go, part 2"
+    notes2: ""
 
   - date: W 10/14
 
@@ -335,8 +335,8 @@ calendar:
     notes1: "Bring all drawing supplies"
 
     instr2: yorgey
-    topic2: "Discussion"
-    notes2: "TBA"
+    topic2: "Discussion: AlphaGo"
+    notes2: ""
 
   - date: F 10/16
 
@@ -345,8 +345,8 @@ calendar:
     notes1: "Bring all drawing supplies"
 
     instr2: yorgey
-    topic2: "Activity"
-    notes2: "TBA"
+    topic2: "Project 2: Digital vs. Analog After Sol Lewitt"
+    notes2: ""
 
   - date: M 10/19
 
@@ -355,8 +355,8 @@ calendar:
     notes1: "Bring all drawing supplies"
 
     instr2: yorgey
-    topic2: "Activity"
-    notes2: "TBA"
+    topic2: "Project 2: Digital vs. Analog After Sol Lewitt"
+    notes2: ""
 
   - date: W 10/21
 
