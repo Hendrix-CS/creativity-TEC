@@ -272,7 +272,7 @@ calendar:
 
     instr1: yorgey
     topic1: "Introduction to Go, part 2"
-    notes1: ""
+    notes1: "[AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y) watch party: 7:30-9pm"
 
     instr2: gill
     topic2: "Discussion"
@@ -317,6 +317,7 @@ calendar:
     instr2: yorgey
     topic2: "Introduction to Go, part 1"
     notes2: ""
+"
 
   - date: M 10/12
 
@@ -326,7 +327,7 @@ calendar:
 
     instr2: yorgey
     topic2: "Introduction to Go, part 2"
-    notes2: ""
+    notes2: "[AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y) watch party: 7:30-9pm"
 
   - date: W 10/14
 
