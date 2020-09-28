@@ -29,7 +29,8 @@ Guidelines
       screenshot](https://www.pcmag.com/news/how-to-take-a-screenshot-on-any-device).
 
     - Dr. Yorgey will also introduce [Context Free
-      Art](https://www.contextfreeart.org/) in class.
+      Art](https://www.contextfreeart.org/) in class.  There should be
+      a menu option to save your generated images as `.png` files.
 
     - For [EscherSketch](http://eschersket.ch/), you are on your own,
       and this is intentional!  You will probably be confused and
@@ -100,8 +101,9 @@ You should turn in:
       etc.) support an option to "Export to PDF", usually in the File
       menu.  If you need help with this step, just ask!
 
-You can submit your project [via this DropBox
-link](https://www.dropbox.com/request/kbemWssiaMbLG0OgMygG).
+Note, that is a total of (at least) **13 files** (9 images + 3 `.cfdg`
+files + 1 `.pdf` reflection).  You can submit your project [via this
+DropBox link](https://www.dropbox.com/request/kbemWssiaMbLG0OgMygG).
 
 Remember to take advantage of [rolling submissions](../#rolling): turn
 in your project any time before the deadline to get feedback, revise,
