@@ -262,7 +262,7 @@ calendar:
 
     instr1: yorgey
     topic1: "Introduction to Go, part 1"
-    notes1: ""
+    notes1: "[Go resources](http://www.college-go.org/resources)"
 
     instr2: gill
     topic2: "Discussion"
@@ -316,7 +316,7 @@ calendar:
 
     instr2: yorgey
     topic2: "Introduction to Go, part 1"
-    notes2: ""
+    notes2: "[Go resources](http://www.college-go.org/resources)"
 
   - date: M 10/12
 
