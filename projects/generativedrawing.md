@@ -25,12 +25,22 @@ Guidelines
 
     - Dr. Yorgey will demonstrate
       [recursivedrawing.com](http://recursivedrawing.com) in class.
-      Remember that to save your images you will need to [take a
-      screenshot](https://www.pcmag.com/news/how-to-take-a-screenshot-on-any-device).
+
+        - Remember that to save your images you will need to [take a screenshot](https://www.pcmag.com/news/how-to-take-a-screenshot-on-any-device).
 
     - Dr. Yorgey will also introduce [Context Free
-      Art](https://www.contextfreeart.org/) in class.  There should be
-      a menu option to save your generated images as `.png` files.
+      Art](https://www.contextfreeart.org/) in class.
+
+        - You should save *two* files for each Context Free Art
+          piece.
+
+            - You can save the *code* (a `.cfdg` file) by going to
+              the "File" menu and selecting "Save As...".
+
+            - You can save an *image* by clicking the button labelled
+              "Save Output" (Mac) or clicking on the little
+              downward-pointing triangle next to the "Render" button
+              and choosing "Save Output" (Windows).
 
     - For [EscherSketch](http://eschersket.ch/), you are on your own,
       and this is intentional!  You will probably be confused and
