@@ -68,7 +68,20 @@ such as:
   - Did you feel you were exhibiting more creativity when writing
     instructions for your partner, or when executing your partner's
     instructions (or about the same)?
-  - ???
+  - How did you like the final results that came from your partner
+    following your instructions? Was it what you expected or
+    completely different?
+  - How did you construct your list of instructions so that it would
+    have an interesting result?
+  - How might this scenario---one person (or group of people) giving
+    instructions and another person (or group of people) carrying them
+    out---play out in your intended field of study/career? Can you
+    identify any particular skills that this exercise has helped you
+    develop?
+  - In what ways does communication and creative collaboration factor
+    into engaged citizenship?
+  - Did you run into an awareness of fixed vs. growth mindset as you
+    did this project?
 
 Your reflection does **not** need to answer all the above questions,
 and you could also answer other, related questions instead.  These
@@ -76,7 +89,6 @@ are just example prompts to get you thinking.  You will not be graded
 on things like grammar, punctuation, etc. (although writing well is
 always a goal worth striving for); we simply want to see evidence of
 thoughtful reflection.
-
 
 What to turn in
 ---------------
@@ -116,14 +128,7 @@ Learning Goals
 * Further development of collaboration skills
 * Further development of digital and analog creative skills
 
-Grading Criteria (Analog Instructions and Drawing)
---------------------------------------------------
+Rubric
+------
 
-Thoroughness and rigor: The finished drawing must have a substantial
-amount of mark-making and variety to create a dynamic image. The final
-drawing should be more ambitious than "safe."
-
-Grading Criteria (Digital Program and Drawing)
-----------------------------------------------
-
-???
+Coming soon!
