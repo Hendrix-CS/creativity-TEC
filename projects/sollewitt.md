@@ -58,6 +58,16 @@ in LeWitt's work, although of course the possibility of much smaller
 and more numerous repetitions can create the illusion of more complex,
 organic shapes.
 
+Note that **some iteration will probably be required**!  If after
+executing your partner's instructions, the final image does not meet
+the criteria in the rubric below (the image should use the whole
+picture plane, and use a variety of elements, e.g. lines, shapes,
+colors, and textures), it could be because you did not execute the
+instructions well, or it could be because the instructions were
+insufficient, or both.  Discuss with your partner, write some new
+instructions, and try again.  Repeat until you are both satisfied with
+the result.
+
 Reflection
 ----------
 
