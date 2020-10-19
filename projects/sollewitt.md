@@ -131,4 +131,29 @@ Learning Goals
 Rubric
 ------
 
-Coming soon!
+The project is worth a total of **200 points**.
+
+* **Combined grade (175 points)** You and your partner will receive
+  the same joint grade, based on the following criteria:
+    - 2 sets of analog instructions in a simple list format, clearly
+      labelled to show who wrote and executed each (12 points each)
+    - 2 sets of digital instructions in a simple list format, clearly
+      labelled to show who wrote and executed each (12 points each)
+    - 2 analog drawings (25 points each)
+        - Thoroughness and rigor: the finished drawing must have a
+          substantial amount of mark-making and variety to create a
+          dynamic image. The final drawing should be more ambitious
+          than "safe";  more difficult than easy.
+    - 2 digital drawings (25 points each)
+        - Thoroughness and rigor: the image should use the whole
+        picture plane, and use a variety of elements (e.g. lines,
+        shapes, colors, textures)
+    - 10 project files [uploaded to
+      dropbox](https://www.dropbox.com/request/HiKJpRt7ye3L4qPJvVCB)
+      on or before November 9 (27 points)
+
+* **Individual grade (25 points)** Each partner will receive an
+  individual grade for their reflection.
+    - Written reflection (25 points): 1-2 paragraphs, written in
+      prose, that demonstrate thoughtful reflection about the project,
+      its larger implications, and the collaborative process.
