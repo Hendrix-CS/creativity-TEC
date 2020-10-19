@@ -157,7 +157,7 @@ The project is worth a total of **200 points**.
     - 2 digital drawings (25 points each)
         - Thoroughness and rigor: the image should use the whole
         picture plane, and use a variety of elements (e.g. lines,
-        shapes, colors, textures)
+        shapes, colors, textures).
     - 10 project files [uploaded to
       dropbox](https://www.dropbox.com/request/HiKJpRt7ye3L4qPJvVCB)
       on or before November 9 (27 points)
