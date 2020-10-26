@@ -63,4 +63,4 @@ Word, Pages, or something similar, there is typically an "Export to
 PDF" option in the File menu.  If you are having trouble figuring out
 how to export your document as a PDF, please ask for help!
 
-You should upload your final draft via (TBA).
+You should upload your final draft via [this DropBox link](https://www.dropbox.com/request/D5vfB6zZrDHXzIpCpYM5).
