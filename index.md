@@ -141,8 +141,8 @@ Dr. Yorgey, two for Prof. Gill, and one combined project.
 | [Abstracted Collage]({{site.baseurl}}/projects/collage.html)                    | 100    | Sep 28 |
 | [Generative Drawing]({{site.baseurl}}/projects/generativedrawing.html)          | 100    | Sep 28 |
 | [Digital vs. Analog after Sol LeWitt]({{site.baseurl}}/projects/sollewitt.html) | 200    | Nov 9  |
-| [Artistic Intervention]({{site.baseurl}}/projects/intervention.html)            | 150    | Dec 8  |
-| [Context Free Art Remix]({{site.baseurl}}/projects/remix.html)                  | 150    | Dec 8  |
+| [Artistic Intervention]({{site.baseurl}}/projects/intervention.html)            | 150    | Dec 4  |
+| [Context Free Art Remix]({{site.baseurl}}/projects/remix.html)                  | 150    | Dec 4  |
 
 <hr>
 # Expectations and Resources
