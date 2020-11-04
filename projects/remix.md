@@ -3,6 +3,7 @@ layout: work
 type: Project
 worktitle: Remix
 due: December 4
+duetime: 5:00 pm
 ---
 
 Description and examples
@@ -13,21 +14,28 @@ remixing and/or adapting creative works by others.
 
 For example, you could:
 
-- Take some images and make a collage (either using digital tools, or
-  by printing out the images and making a physical collage).
+- Write a story or poem that incorporates material from other texts.
+
+- Use images, text, links, etc. to create a website that tells a story
+  or communicates an idea.
+
+- Use some images to make a collage (either using digital tools, or
+  by printing out the images and making a physical collage), or
+  digitally alter the images somehow.
 
 - Download the code for one or more images in the [Context Free Art
   Gallery](https://www.contextfreeart.org/gallery/) and modify/combine
   them to make your own remix.
 
-- Write a story or poem that incorporates material from other texts.
-
 - Make a video that adapts/remixes other video and audio material.
 
 These examples are not meant to be an exhaustive list of options.  You
 should feel free to do something not on the above list (take a series
-of photographs? make a painting? write a song?), or to mix multiple
-types of media, as long as you follow the guidelines below.
+of photographs? make a painting? write a song? needlepoint
+stitching?), or to mix multiple types of media, as long as you follow
+the guidelines below.
+
+The project is due at **{{page.duetime}} on {{page.due}}**.
 
 Resources
 ---------
@@ -59,8 +67,8 @@ Guidelines
   use or influence of the other creative works needs to be pointed out
   in order to see it.
 
-- On the other hand, your use needs to be __transformative__.  That
-  is, you must make something recognizably new.  You are not just
+- On the other hand, your use needs to be **transformative**.  That
+  is, you must make something recognizably new; you are not just
   changing something about the existing creative works, but using them
   to make something new. For example, putting two poems one after the
   other, or changing a single word of a poem would not normally be
@@ -101,17 +109,51 @@ Guidelines
 Reflection
 ----------
 
+Along with your finished creative work, you should write a 1 page
+reflection on your creative process.  For example, you might consider
+questions such as:
 
+- How did you choose other creative works to make use of in your
+  project?  Was it easy or difficult to find them?
+- How did the works you chose affect your own creative process?
+- What was your creative process?  How you made use of your chosen
+  creative works?
+- Did your perspective on your chosen works or their creator(s) change
+  as a result of using them in your own work?  If so, how?
 
-What to turn in
----------------
+Rubric
+------
 
-- Any files necessary to submit your project.
+The project is worth 150 points, broken down as follows:
+
+- 40 points: Your creative work displays **originality** and
+  **effort** on your part.
+- 10 points: Your work makes use of **at least two** other
+  creative works.
+- 20 points: Your work makes **transformative** use of
+  the other works: not just repeating them but turning them into
+  something else.
+- 20 points: Your creative work uses the other works in a
+  **recognizable** way (possibly with an explanation in the
+  reflection).
+- 10 points: Copyright notice
+- 25 points: Proper attribution of works used
+- 25 points: Reflection
+
+Submission
+----------
+
+You should submit the following files by [uploading them to this
+  Dropbox link](https://www.dropbox.com/request/FWZaSNQbkDFQ4Skv18tF):
+
+- Any files necessary to transmit your creative work or explain how to
+  find it. For example:
     - A text document, if you created some kind of text
     - A `.jpg` or `.png` if you created some kind of image
+    - A `.zip` file if you created a collection of images or texts
     - If you created something which requires a very large file (for
       example, audio or video), it may be easier to upload your work
-      to a public site such as SoundCloud, Vimeo, or YouTube, and
+      to a public site such as SoundCloud, Vimeo, or YouTube, and then
       simply submit a text document with a link to a URL where your
       project can be found.
 
@@ -121,10 +163,12 @@ What to turn in
 - A text document describing and reflecting on your
   creative process, as explained above.
 
-- If you wish, you may combine multiple text documents into one, as
+- If you choose, you may combine multiple text documents into one, as
   long as you are clear about the different sections.  For example, if
-  you write a story, you could put the story, copyright and
-  attributions, and reflection all in the same document.
+  you write a story, you could put the story, copyright, attributions,
+  and reflection all in the same document.  Putting everything in one
+  document is not necessarily better---do whatever you think is most
+  clear.
 
 - All files can be submitted via [this Dropbox
   link](https://www.dropbox.com/request/FWZaSNQbkDFQ4Skv18tF).
