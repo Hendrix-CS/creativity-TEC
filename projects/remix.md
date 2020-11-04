@@ -47,13 +47,15 @@ if you want to find some modern poetry licensed for adaptation, you
 certainly can---just do a Google search for something like "creative
 commons poetry" and see what turns up.
 
-- Creative Commons search: https://search.creativecommons.org/
-- Creative Commons list of sources: https://search.creativecommons.org/sources
-- Project Gutenberg (public domain books): https://www.gutenberg.org/
-    - See e.g. https://www.gutenberg.org/browse/scores/top
-- Free Music Archive: https://freemusicarchive.org/home
-- https://wiki.creativecommons.org/wiki/Best_practices_for_attribution
-- https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license
+- [Creative Commons search](https://search.creativecommons.org/)
+- [Creative Commons list of sources](https://search.creativecommons.org/sources)
+- [Project Gutenberg](https://www.gutenberg.org/) (public domain books)
+    - For inspiration, see their [list of frequently viewed/downloaded
+      books](https://www.gutenberg.org/browse/scores/top), many of
+      which you have probably heard of.
+- [Free Music Archive](https://freemusicarchive.org/home)
+- [Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution)
+- [Marking your work with a CC license](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license)
 
 Guidelines
 ----------
