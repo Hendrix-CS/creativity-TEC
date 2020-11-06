@@ -375,7 +375,7 @@ calendar:
   - date: M 10/26
 
     instr1: yorgey
-    topic1: "Discussion"
+    topic1: "Discussion: Copyright and creativity"
     notes1: "[Laws that Choke Creativity](https://www.ted.com/talks/lawrence_lessig_laws_that_choke_creativity?language=en)"
 
     instr2: gill
@@ -385,8 +385,8 @@ calendar:
   - date: W 10/28
 
     instr1: yorgey
-    topic1: "Discussion"
-    notes1: "TBA"
+    topic1: "Discussion: free culture"
+    notes1: "[Creative Commons](https://creativecommons.org/)"
 
     instr2: gill
     topic2: "Discussion"
@@ -395,8 +395,8 @@ calendar:
   - date: F 10/30
 
     instr1: yorgey
-    topic1: "Discussion"
-    notes1: "TBA"
+    topic1: "Representing digital information"
+    notes1: ""
 
     instr2: gill
     topic2: "Proj. 3-The Artistic Intervention (Due T 12/8)"
@@ -405,8 +405,8 @@ calendar:
   - date: M 11/2
 
     instr1: yorgey
-    topic1: "Activity"
-    notes1: "TBA"
+    topic1: "Activity: remix"
+    notes1: ""
 
     instr2: gill
     topic2: "Proj. 3-The Artistic Intervention"
@@ -415,8 +415,8 @@ calendar:
   - date: W 11/4
 
     instr1: yorgey
-    topic1: "Activity"
-    notes1: "TBA"
+    topic1: "Remix project introduction"
+    notes1: ""
 
     instr2: gill
     topic2: "Proj. 3-The Artistic Intervention"
@@ -434,7 +434,7 @@ calendar:
     notes1: "[Art that Engages: Swoon & Ai Weiwei](https://www.youtube.com/watch?v=5298KZuW_JE)"
 
     instr2: yorgey
-    topic2: "Discussion"
+    topic2: "Discussion: creativity and copyright"
     notes2: "[Laws that Choke Creativity](https://www.ted.com/talks/lawrence_lessig_laws_that_choke_creativity?language=en)"
 
   - date: W 11/11
@@ -444,8 +444,8 @@ calendar:
     notes1: "[Art that Engages: Allora & Calzadilla and Johnson](https://art21.org/artist/allora-calzadilla/)"
 
     instr2: yorgey
-    topic2: "Discussion"
-    notes2: "TBA"
+    topic2: "Discussion: free culture"
+    notes2: "[Creative Commons](https://creativecommons.org/)"
 
   - date: F 11/13
 
@@ -454,8 +454,8 @@ calendar:
     notes1: "work on project plan"
 
     instr2: yorgey
-    topic2: "Discussion"
-    notes2: "TBA"
+    topic2: "Activity: remix & project introduction"
+    notes2: ""
 
   - date: M 11/16
 
@@ -464,8 +464,8 @@ calendar:
     notes1: "work day"
 
     instr2: yorgey
-    topic2: "Activity"
-    notes2: "TBA"
+    topic2: "Representing digital information"
+    notes2: ""
 
   - date: W 11/18
 
@@ -474,7 +474,7 @@ calendar:
     notes1: "work day"
 
     instr2: yorgey
-    topic2: "Activity"
+    topic2: "TBA"
     notes2: "TBA"
 
   - date: F 11/20
