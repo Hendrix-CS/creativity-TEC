@@ -39,7 +39,7 @@ Description
 > lead to debate as to the distinction between art
 > and [vandalism](https://en.wikipedia.org/wiki/Vandalism). [[1]](https://en.wikipedia.org/wiki/Art_intervention#cite_note-tools-1)
 >
-> -- <cite>Adapted from Wikipedia contributors. "Art intervention." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 3 Nov. 2020. Web. 6 Nov. 2020.</cite>
+> -- <cite>Adapted from: Wikipedia contributors. "[Art intervention](https://en.wikipedia.org/wiki/Art_intervention)." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 3 Nov. 2020. Web. 6 Nov. 2020.</cite>
 
 In this third unit of the course “Creativity and Social Context” we
 are looking at the ways in which society shapes creativity-for example
