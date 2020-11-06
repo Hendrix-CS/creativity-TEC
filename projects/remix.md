@@ -69,6 +69,17 @@ Guidelines
   use or influence of the other creative works needs to be pointed out
   in order to see it.
 
+    - Note that you don't necessarily have to literally reuse portions
+      of the other creative works.  For example, you could write a
+      story whose plot closely mirrors another story, but with
+      different characters and details.  This could be a recognizable
+      use (especially if the other story has a well-known or easily
+      recognizable plot) even if it does not literally quote any
+      material from the other source.  For instance, this kind of
+      thing is often done with Shakespeare plays (e.g. [Ten Things I
+      Hate About
+      You](https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You)).
+
 - On the other hand, your use needs to be **transformative**.  That
   is, you must make something recognizably new; you are not just
   changing something about the existing creative works, but using them
@@ -76,13 +87,14 @@ Guidelines
   other, or changing a single word of a poem would not normally be
   considered transformative.
 
-- The other creative works you use **must be licensed for adaptation
-  and reuse** (*e.g.* in the public domain, or licensed under a
-  Creative Commons license without the `NoDerivatives` clause or some
-  other suitable license).
-    - Note an argument could easily be made that adapting a creative
-      work in a transformative way for a class project falls under
-      fair use and hence would be allowed under copyright law.
+- The other creative works you use **must be explicitly available for
+  adaptation and reuse** (*e.g.* in the public domain, oro licensed
+  under a Creative Commons license without the `NoDerivatives` clause
+  or some other suitable license).
+    - Note that an argument could easily be made that adapting a
+      creative work in a transformative way for a class project falls
+      under [fair use](https://en.wikipedia.org/wiki/Fair_use) and
+      hence would be allowed under copyright law.
     - However, the point is not (only) to make sure your project is legal
       but also to help you explore the ideas of free culture we have
       discussed in class.
