@@ -88,16 +88,19 @@ Guidelines
   considered transformative.
 
 - The other creative works you use **must be explicitly available for
-  adaptation and reuse** (*e.g.* in the public domain, oro licensed
-  under a Creative Commons license without the `NoDerivatives` clause
-  or some other suitable license).
-    - Note that an argument could easily be made that adapting a
-      creative work in a transformative way for a class project falls
-      under [fair use](https://en.wikipedia.org/wiki/Fair_use) and
-      hence would be allowed under copyright law.
-    - However, the point is not (only) to make sure your project is legal
-      but also to help you explore the ideas of free culture we have
-      discussed in class.
+  adaptation and reuse**.
+    - For example, they could be in the public domain.
+    - Or they could be licensed under a Creative Commons license
+        - ...but **not** a Creative Commons `NoDerivatives` license!
+    - Or they could be licensed under some other suitable license.
+    - You may not use any other copyrighted works.
+        - Note that an argument could easily be made that adapting a
+          copyrighted creative work in a transformative way for a class project falls
+          under [fair use](https://en.wikipedia.org/wiki/Fair_use) and
+          hence is allowed under copyright law.
+        - **However**, the point is not (only) to make sure your
+          project is legal, but also to help you explore the ideas of free
+          culture we have discussed in class.
 
 - Creative works used **must be cited/attributed properly**.
     - For example, to properly attribute Creative Commons-licensed
